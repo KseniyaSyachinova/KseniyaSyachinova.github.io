@@ -5,7 +5,7 @@
     <link>https://example.com/tag/deep-learning/</link>
       <atom:link href="https://example.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
@@ -13,15 +13,43 @@
     </image>
     
     <item>
-      <title>Example Project</title>
+      <title>Грозит ли Земле перенаселение</title>
       <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <description>&lt;p&gt;Актуальность темы: Экологическая проблема - это изменение природной среды в результате антропогенных воздействий или стихийных бедствий, ведущее к нарушению структуры и функционирования природы.&lt;/p&gt;
+&lt;p&gt;Экологические проблемы возникли как следствие нерационального отношения человека к природе, стремительного роста промышленных технологий, индустриализации и роста населения.&lt;/p&gt;
+&lt;p&gt;Выработка природных ресурсов настолько велика, что встал вопрос об их использовании в будущем. Загрязнение природной среды привело к прогрессирующей гибели представителей растительно-животного мира, загрязнению почв, подземных источников, истощению и деградации почвенного покрова и т.д.&lt;/p&gt;
+&lt;p&gt;От решения экологических проблем зависит прогресс и судьба цивилизации, поэтому решение экологических проблем современного мира является важной и актуальной проблемой.&lt;/p&gt;
+&lt;p&gt;Цель проекта: Изучить экологические проблемы современности.&lt;/p&gt;
+&lt;p&gt;Задачи проекта:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Рассказать о причинах возникновения экологических проблем в мире;&lt;/li&gt;
+&lt;li&gt;Рассмотреть типологию и классификацию экологических проблем;&lt;/li&gt;
+&lt;li&gt;Анализ основных экологических проблем;&lt;/li&gt;
+&lt;li&gt;Рассмотреть и обозначить основные пути решения экологических проблем.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Экологические проблемы современности&lt;/p&gt;
+&lt;p&gt;До самого последнего периода истории Земли живые системы планеты эволюционировали почти в полной гармонии с атмосферой, гидросферой и литосферой, не испытывая влияния человеческой деятельности. Но по мере развития сельского хозяйства и промышленности воздействие человека на среду стало все заметнее. Повсеместная индустриализация, особенно развернувшаяся за последние два столетия, привела к потенциально опасным уровням загрязнения среды.&lt;/p&gt;
+&lt;p&gt;Можно сказать, что загрязнение - это поступление в окружающую среду каких- либо веществ или энергии в таких больших количествах или в течение столь длительного времени, что эти вещества или энергия начинают наносить ущерб людям и окружающей среде. Легко распространяясь от одних компонентов жизнеобеспечения к другим, загрязнение в той или иной степени влияет на все параметры среды - антропогенные и природные, физические и биотические.
+Загрязнение атмосферы&lt;/p&gt;
+&lt;p&gt;Еще в начале шестидесятых годов считали, что загрязнение атмосферы - это локальная проблема больших городов и индустриальных центров, но позже стало ясно, что атмосферные загрязнители способны распространяться по воздуху на большие расстояния, оказывая неблагоприятное воздействие на районы, находящиеся на значительном удалении от места выброса этих веществ.&lt;/p&gt;
+&lt;p&gt;Таким образом, загрязнение атмосферы - это глобальное явление, и для контроля за ним необходимо международное сотрудничество. К числу наиболее распространенных загрязнителей атмосферы относятся такие газы, как хлорфторуглероды, диоксид серы, углеводороды и оксиды азота.&lt;/p&gt;
+&lt;p&gt;Загрязнение может привести к значительному снижению естественной концентрации газов, входящих в состав атмосферы, например озона в стратосфере. В сочетании с углеводородами и соединениями группы NOx озон может представлять собой прямую опасность для здоровья людей, и кроме того, является одной из важных составных частей фотохимического смога.&lt;/p&gt;
+&lt;p&gt;Пыль, шум, чрезмерное количество тепла, радиация и электромагнитные поля - все это загрязнение атмосферы.
+Обеднение озонового слоя&lt;/p&gt;
+&lt;p&gt;Земная атмосфера состоит, главным образом, из азота (около 78%) и кислорода (около 21%). Небольшая часть кислорода находится в атмосфере в виде озона - кислородных молекул.&lt;/p&gt;
+&lt;p&gt;Озон сосредоточен преимущественно в атмосфере на высоте 15-20 километров над земной поверхностью. Несмотря на малое количество, роль озона в биосфере Земли чрезвычайно велика и ответственна. Озоносфера поглощает значительную часть жесткого ультрафиолетового излучения Солнца, губительного для живых организмов.&lt;/p&gt;
+&lt;p&gt;Она - щит жизни, но щит, отрегулированный природой. Более длинноволновую часть ультрафиолетовой радиации озоносфера пропускает. Эта проникающая часть ультрафиолета необходима для жизни: она уничтожает болезнетворные бактерии, способствует выработке в организме человека витамина D. Состояние озонового слоя чрезвычайно важно, ибо даже незначительное изменение интенсивности ультрафиолетовой радиации у земной поверхности может отразиться на живых организмах&lt;/p&gt;
+&lt;p&gt;Причины истончения озонового слоя:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Во время запуска космических ракет в озоновом слое буквально «выжигаются» дыры. И вопреки старому мнению о том, что они сразу же затягиваются, эти дыры существуют довольно долгое время.&lt;/li&gt;
+&lt;li&gt;Самолеты летающие на высотах в 12-16 км. также приносят вред озоновому слою, тогда как летающие ниже 12 км. напротив способствуют образованию озона.&lt;/li&gt;
+&lt;li&gt;Выброс в атмосферу фреонов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Самой главной причиной разрушения озонового слоя является хлор и его водородные соединения. Огромное количество хлора попадает в атмосферу, в первую очередь от разложения фреонов. Фреоны - это газы, не вступающие у поверхности планеты ни в какие химические реакции. Фреоны закипают и быстро увеличивают свой объем при комнатной температуре, и потому являются хорошими распылителями.&lt;/p&gt;
+&lt;p&gt;Из-за этой особенности фреоны долгое время использовались в изготовлении аэрозолей. И так как, расширяясь, фреоны охлаждаются, они и сейчас очень широко используются в холодильной промышленности. Когда фреоны поднимаются в верхние слои атмосферы, от них под действием ультрафиолетового излучения отщепляется атом хлора, который начинает одну за другой превращать молекулы озона в кислород.&lt;/p&gt;
+&lt;p&gt;Хлор может находиться в атмосфере до 120 лет, и за это время способен разрушить до 100 тысяч молекул озона.&lt;/p&gt;
 </description>
     </item>
     
