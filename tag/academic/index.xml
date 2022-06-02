@@ -2,462 +2,467 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://example.com/tag/academic/</link>
-      <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kseniyasyachinova.github.io/tag/academic/</link>
+      <atom:link href="https://kseniyasyachinova.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://kseniyasyachinova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/tag/academic/</link>
+      <link>https://kseniyasyachinova.github.io/tag/academic/</link>
     </image>
     
     <item>
-      <title>Московский зоопарк</title>
-      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-4/</link>
-      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-4/</guid>
-      <description>&lt;h2 id=&#34;мои-впечатления&#34;&gt;Мои впечатления.&lt;/h2&gt;
+      <title>Cooking day!</title>
+      <link>https://kseniyasyachinova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82-6/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://kseniyasyachinova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82-6/</guid>
+      <description>&lt;h2 id=&#34;recipe&#34;&gt;Recipe&lt;/h2&gt;
+&lt;p&gt;Each nation has its own rich ancient traditions. They are present everywhere: in clothes, everyday life, language, songs, food, etc.&lt;/p&gt;
+&lt;p&gt;There are many recipes for making pancakes, milk, sugar, salt, eggs, butter remain the same ingredients. Flour for their preparation can be used differently. The filling can be just as varied. Here everything depends on the ingenuity of the hostess. Perhaps no one would refuse to eat pancakes with honey, apples, soft cheese, condensed milk, mushrooms, meat, etc.&lt;/p&gt;
+&lt;p&gt;When cooking pancakes, housewives often face problems: how to bake thin and strong pancakes, or, on the contrary, lush and loose. Let&amp;rsquo;s reveal a few secrets to you.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Московский зоопарк - один из старейших в Европе. По размеру коллекции он занимает 4-ое место среди европейских зоопарков и входит в первую десятку зоопарков мира, обладающих самыми обширными коллекциями.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;В Московском зоопарке и его филиалах содержатся и размножаются редчайшие виды животных – от амурских леопардов и забайкальских манулов до крокодиловых шинизавров и загросских тритонов. Кроме того, зоопарк обладает уникальной, не имеющей аналогов в мире коллекцией ядовитых змей.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Было очень интересно и позновательно, но некоторых животных действительно жалко видеть в клетках.&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Wheat flour is best for making pancakes. But if you prefer fluffy pancakes, then you can use oatmeal or buckwheat flour.&lt;/li&gt;
+&lt;li&gt;To avoid lumps, add flour in small portions, stirring constantly.&lt;/li&gt;
+&lt;li&gt;In order for the pancakes to turn out very tender, the flour should be sifted 2-3 times.&lt;/li&gt;
+&lt;li&gt;Water is the basis for thin and strong pancakes, but pancakes made with milk are much tastier. Mix milk and water - you will get strong and tasty.&lt;/li&gt;
+&lt;li&gt;If you bake pancakes on kefir, they will turn out magnificent. You will get the same effect if you make pancakes from yeast dough.&lt;/li&gt;
+&lt;li&gt;It is advisable to have a separate pan for baking pancakes.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Языки научного программирования.</title>
-      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D1%80%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
-      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D1%80%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
-      <description>&lt;h2 id=&#34;теория&#34;&gt;Теория.&lt;/h2&gt;
-&lt;p&gt;Язык программирования- формализованный язык, предназначенный для описания программ и алгоритмов решения задач на ЭВМ. Языки программирования являются искусственными. В них синтаксис и семантика строго определены. Поэтому они не допускают свободного толкования выражения, что характерно для естественного языка. Языки программирования разделяются на две основные категории языки высокого уровня и языки низкого уровня :&lt;/p&gt;
+&lt;p&gt;Here are some recipes for making pancakes with milk. They will certainly come in handy, because these pancake recipes have already been tested by more than one housewife, and the ingredients are indicated in exact proportions, which guarantees a wonderful, delicate taste.&lt;/p&gt;
+&lt;p&gt;Ingredients&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Язык высокого уровня [high-level language] - Язык программирования, средства которого обеспечивают описание задачи в наглядном, легко воспринимаемом виде, удобном для программиста. Он не зависит от внутренних машинных кодов ЭВМ любого типа, поэтому программы, написанные на языках высокого уровня, требуют перевода в машинные коды программами транслятора либо интерпретатора. К языкам высокого уровня относят Фортран , ПЛ/1 , Бейсик , Паскаль , Си , Ада и др.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык низкого уровня , [low-level language ] - Язык программирования, предназначенный для определенного типа ЭВМ и отражающий его внутренний машинный код (см. ниже также “машинный язык “, “ машинно-ориентированный язык “ и “ язык ассемблера “).&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Milk 1 l&lt;/li&gt;
+&lt;li&gt;Eggs 4 pcs.&lt;/li&gt;
+&lt;li&gt;Flour 500 g&lt;/li&gt;
+&lt;li&gt;Vegetable oil 2 tbsp. l.&lt;/li&gt;
+&lt;li&gt;Sugar 1.5 tbsp. l.&lt;/li&gt;
+&lt;li&gt;Salt 0.5 tsp.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Различают также следующие виды языков программирования:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Алгоритмический язык [algorithmic language ] - Совокупность символов, соглашений и правил, используемых для однозначного описания алгоритмов и обычно являющаяся часть языка программирования ;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Неалгоритмический язык [nonalgorithmic language] - Язык программирования, тексты которого не содержат указаний на порядок выполнения операций и служат лишь исходным материалом для синтеза алгоритма решения задачи;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Формальный язык [formal language] – язык программирования, построенный по правилам некоторого логического исчисления или формальной грамматики [formal grammar ], представляющей собой систему правил построения в заданном алфавите конечных знаковых последовательностей, множество которых образует формальный язык;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Исходный язык [source language] - язык программирования, на котором написана программа, в отличие от машинного языка, на котором программы выполняются компьютером. Исходные языки классифицируются на языки высокого уровня и языки низкого уровня .&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Машинный ( абсолютный ) язык , язык ЭВМ [computer (machine) language] - Язык программирования, предназначенный для представления программ в форме, обеспечивающей возможность их выполнения техническими средствами;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Машинозависимый ( машинно-ориентированный ) язык , машинозависимый язык программирования [computer-sensitive (computer-oriented) language] - Язык программирования, учитывающий структуру и характеристики ЭВМ определенного типа или конкретной ЭВМ;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Машиннонезависимый язык [machine-independent language] - Язык программирования, структура и средства которого не связаны ни с какой конкретной ЭВМ и позволяют выполнять составленные на нем программы на любой ЭВМ, снабженной трансляторами (см. ниже) с этого языка;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Символический язык , язык символического кодирования [symbolic language] - Язык программирования, ориентированный на конкретные ЭВМ и основанный на кодировании машинных операций при помощи определенного набора символов;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Гибридный ( комбинированный ) язык [hibrid language] - Язык программирования, использующий также средства другого языка;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Графический язык [graphic language ] - Язык, предназначенный для написания программ машинной графики и пользования ими.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Базовый язык [base language] –&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Машинный язык , общий для семейства ЭВМ;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык программирования в СУБД с автономным языком .&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Общий язык [common language] - Машинный язык, общий для группы ЭВМ и используемых ими внешних устройств;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Эталонный язык [reference language ] - Язык, являющийся основой для всех его конкретных версий, являющихся вариантами адаптации эталонного языка к определенным условиям применения и назначения;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык ассемблера , ассемблер [assembler language ] - Универсальный язык программирования , относящийся к категории языков низкого уровня, структура которого определяется форматами команд, данными машинного языка и архитектурой ЭВМ. Используется программистами в тех случаях, когда невозможно применение языка высокого уровня или требуются эффективные программы в машинных кодах.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Декларативный ( непроцедурный ) язык [declararative (nonprocedural) language] - Язык программирования, который позволяет задавать связи и отношения между объектами и величинами, но не определяет последовательность выполнения действий (например, языки Пролог , QBE);&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Императивный ( процедурный ) язык [imperative language] - Язык программирования, который позволяет в явной форме (при помощи задания выполняемых операторов) определять действия и порядок (последовательность) их выполнения;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык функционального программирования , функциональный язык [functional language] - Декларативный язык программирования, основанный на понятии функций, которые задают зависимость, но не определяют порядок вычислений.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Специализированный язык [special language] - Язык программирования, ориентированный на решение определенного круга задач;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык описания страниц [PDL - Page Description Language] - Специализированный язык, предназначенный для печатающих устройств. Предусматривает возможность использования изображений в формате, независимом от параметров устройства отображения. Наиболее известным языком такого типа является PostScript.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Автономный язык [freestanding language] - Специализированный язык высокого уровня, в замкнутых СУБД (“ СУБД с автономным языком “);&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык конструирования интерактивных технологий - В СУБД - язык, предназначенный для описания технологических процессов обработки данных с учетом разделения характера операций по их типам, а также обеспечения диалога с администратором системы;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык манипулирования данными , ЯМД [DML - Data Manipulation Language] - В СУБД - язык, предназначенный для обращения к базе данных и выполнения поиска, чтения и модификации ее записей;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык обработки списков [list language] - Специализированный язык, предназначенный для описания процессов обработки данных, представленных в виде списков объектов ;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык описания данных [DDL - Data Description Language ] - Язык, предназначенный для описания “концептуальной схемы” базы данных ;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык описания хранения данных [DSDL - Data Storage Description Language ] - Язык, предназначенный для описания физической структуры ( схемы ) базы данных ;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык описания страниц [page description language] Система для кодировки документов, которая позволяет точно описать ее внешний вид после подготовки к выводу на печать или на дисплей. Примером использования такого языка служит PDF (Portable Document Format), разработанный Adobe для хранения и представления изображений страниц.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык представления знаний [KRL - Knowledge Representation Language] - Декларативный или декларативно-процедурный язык, предназначенный для представления знаний в памяти ЭВМ (например, языки Лисп и Пролог );&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык публикаций [publication language ] - Язык, используемый для публикации алгоритмов и программ;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык спецификаций [specification language] - Декларативный язык для задания спецификаций программ ;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Проблемно-ориентированный язык [problem-oriented language] - Язык программирования, предназначенный для решения определенного класса задач (проблем);&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Процедурный ( процедурно-ориентированный ) язык [procedure-orinted language] - Проблемно-ориентированный язык, который облегчает выражение процедуры, как точного алгоритма;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык реального времени [real-time language] - Язык, используемый для программирования задач, в которых критическим является время реакции ЭВМ на сигналы, требующие от нее немедленных действий (например, язык Ада );&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык управления пакетом [batch control language ] - Набор команд , директив , квалификаторов и правил их использования для управления пакетной обработкой данных;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык управления заданиями [job-control language ] - Язык, на котором записывается последовательность команд, управляющих выполнением задания. В отличие от обычных языков программирования, в которых объектами описания являются элементы, связанные с решением отдельной задачи, в языках управления заданиями преобразуемыми объектами являются целые программы и выходные потоки данных, обработанных этими программами.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Общесетевой командный язык [CNCL - Common Network - Command language ] - Стандартный в рамках вычислительной сети язык диалогового (интерактивного) поиска данных, предназначенный для унификации работы пользователей с неоднородными базами данных, управляемых различными СУБД ;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Системный язык [system language ] - Язык общения оператора ЭВМ с вычислительной системой, представляющий собой совокупность команд оператора и сообщений системы;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык общего назначения , универсальный язык [universal programming language] - Язык программирования, ориентированный на решение задач практически из любой области и объединяющий на единой методической основе наиболее существенные свойства и средства современных машино- и проблемноориентированных языков программирования (например, язык ассемблера , ПЛ/1 и др.);&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык ориентированный на пользователя [user-oriented language ] - Слабоформализованный язык программирования, близкий к естественному языку ;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Язык меню [menu language ] - Язык диалога пользователя с системой, основанный на использовании меню .&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Разработки и наименования языков программирования&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Ада [Ada] - Язык программирования высокого уровня, ориентированный на применение в системах реального времени и предназначенный для автоматизации задач управления процессами и/или устройствами, например, в бортовых (корабельных, авиационных и др.) ЭВМ. Разработан по инициативе министерства обороны США в 1980-х гг. Назван в честь английского математика Ады Августы Байрон ( Лавлейс), жившей в 1815-1851 гг.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Алгол [ALGOL - ALGOrithmic Language] - Язык программирования высокого уровня, ориентированный на описание алгоритмов решения вычислительных задач. Был создан в 1958 г. специалистами западно-европейских стран для научных исследований. Версия этого языка Алгол-60 была принята Международной конференцией в Париже (1960 г.) и широко использовалась на ЭВМ 2-го поколения. Версия Алгол-68, разработанная группой специалистов Международной федерации по обработке информации ( ИФИП) в 1968 г., получила статус международного универсального языка программирования, ориентированного на решение не только вычислительных, но и информационных задач. Хотя в настоящее время Алгол практически не используется, он послужил основой или оказал существенное влияние на разработку более современных языков, например, Ада , Паскаль и др.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Бейсик [BASIC - Beginner’s All-purpose Symbolic Instruction Code] - Язык программирования высокого уровня , разработанный в 1963 - 1964 гг. в Дартмутском колледже Томасом Куртом и Джоном Кемени . Первоначально предназначался для обучения программированию. Отличается простотой, легко усваивается начинающими программистами благодаря наличию упрощенных конструкций языка Фортран и встроенных математических функций, алгоритмов и операторов. Существует множество различных версий Бейсика, которые не полностью совместимы друг с другом. Некоторые реализации Бейсика включают средства обработки данных и наборов данных. Большинство версий Бейсика используют интерпретатор, который преобразует его компоненты в машинный код и позволяет запускать программы без промежуточной трансляции. Некоторые более совершенные версии Бейсика позволяют использовать для этой цели трансляторы. На IBM PC широко используются Quick Basic фирмы Microsoft, Turbo Basic фирмы Borland и Power Basic (усовершенствованная версия Turbo Basic, распространяемая фирмой Spectra Publishing ). В начале 1999 г. фирма Microsoft выпустила версию языка Visual Basic 6.0 (VB 6.0), предназначенного для создания многокомпонентных программных приложений для систем уровня предприятий. Подробнее о нем см. [429].&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Кобол [COBOL - COmmon Buisiness-Oriented Language] - Язык программирования высокого уровня, разработанный в конце 1950-х гг. ассоциацией КАДАСИЛ для решения коммерческих и экономических задач. Отличается развитыми средствами работы с файлами. Поскольку команды программ, написанных на этом языке, активно используют обычную английскую лексику и синтаксис, Кобол рассматривается как один из самых простых языков программирования. В настоящее время используется для решения экономических, информационных и других задач.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Лисп [LISP - LISt Processing] - Алгоритмический язык, разработанный в 1960 г. Дж. Маккарти и предназначенный для манипулирования перечнями элементов данных. Используется преимущественно в университетских лабораториях США для решения задач, связанных с искусственным интеллектом. В Европе для работ по искусственному интеллекту предпочитают использовать Пролог .&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ЛОГО [LOGO от греч. logos - слово ] - Язык программирования высокого уровня, разработан в Массачусетском технологическом институте в ориентировочно 1970 г. для целей обучения математическим понятиям. Используется также в школах и пользователями ПЭВМ при написании программ для создания чертежей на экране монитора и управления перьевым графопостроителем .&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Паскаль [PASCAL - акроним с французского - Program Applique a la Selection et la Compilation Automatique de la Litterature] - Процедурно-ориентированный язык программирования высокого уровня, разработанный в конце 1960-х гг. Никлаусом Виртом, первоначально для обучения программированию в университетах. Назван в честь французского математика XVII века Блеза Паскаля. В своей начальной версии Паскаль имел довольно ограниченные возможности, поскольку предназначался для учебных целей, однако последующие его доработки позволили сделать его хорошим универсальным языком, широко используемым в том числе для написания больших и сложных программ. Существует ряд версий языка (например, ETH Pascal, USD Pascal, Turbo Pascal ) и систем программирования на этом языке для разных типов ЭВМ. Для IBM PC наиболее популярной является система Turbo Pascal фирмы Borland (США). Подробнее о языках Пскаль и их развитии см. [653].&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Пролог [PROLOG - PROgramming in LOGic] - Язык программирования высокого уровня декларативного типа (см. выше декларативное программирование), предназначенный для разработки систем и программ искусственного интеллекта. Относится к категории языков пятого поколения. Был разработан в 1971 г. в университете г. Марсель (Франция), относится к числу широко используемых и постоянно развиваемых языков. Последняя его версия Prolog 6.0. Подробнее см. [561].&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Си [C ] - Многоцелевой язык программирования высокого уровня, разработанный Денисом Ритчи в начале 1970-х гг. на базе языка BCPL. Используется на миниЭВМ и ПЭВМ. Является базовым языком операционной системы Unix , однако применяется и вне этой системы, для написания быстродействующих и эффективных программных продуктов, включая и операционные системы. Для IBM PC имеется ряд популярных версий языка Си, в том числе - Turbo C (фирмы Borland), Microsoft C и Quick C ( фирмы Microsoft ), а также Zortech C (фирмы Symantec ). Многие из указанных версий обеспечивают также работу с Си и Си++ (см. ниже).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Си++ [C++] - Язык программирования высокого уровня, созданный Бьярном Страустрапом на базе языка Си. Является его расширенной версией, реализующей принципы объектно-ориентированного программирования. Используется для создания сложных программ. Для IBM PC наиболее популярной является система Turbo C++ фирмы Borland (США).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;C# (C Sharp) – “ Си Шарп ”: объектно-ориентированный яык программирования, о разработке которого в 2000 г. объявила фирма Microsoft . По своему характеру он напоминает языки C++ и Java и предназначен для разработчиков программ, использующих языки C и С++ для того, чтобы они могли более эффективно создавать Интернет-приложения. Указывается, что C # будет тесно интегрирован с языком XML . Подробнее см. – [600], а также на Web -сайте фирмы Microsoft (&lt;a href=&#34;http://msdn.microsoft.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://msdn.microsoft.com&lt;/a&gt;).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Фортран [FORTRAN - FORmula TRANslation] - Язык программирования высокого уровня, разработанный фирмой IBM в 1956 г. для описания алгоритмов решения вычислительных задач. Относится к категории процедурно-ориентированных языков. Наиболее распространенными версиями этого языка являются Фортран IV, Фортран 77 и Фортран 90. Используется на всех классах ЭВМ. Последняя его версия также применяется на ЭВМ с параллельной архитектурой .&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;AppleScript - Машинозависимый (ориентирован на работу с ПЭВМ типа Макинтош фиры Apple ) близкий к естественному английскому язык программирования, предназначенный для автоматизации повторяющихся задач, преимущественно связанных с процессами компьютерной графики (в том числе - обработки результатов сканирования, ввода изображений, цветоделения, составления каталогов, передачи печатных документов в World Wide Web и др.). Планировалась разработка версии этого языка для PowerPC. Подробнее о нем см. [198].
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Clipper - Язык высокого уровня и система программирования, предназначенные для разработки программ для ПЭВМ, преимущественно - систем управления большими объемами данных (см. “СУБД “ ). Владельцем и разработчиком языка и системы Clipper является фирма Nantucket (США). Начало работ по их созданию связано с разработкой компилятора для dBase (см. ниже) и относится к 1984 г. (год основания фирмы Nantucket Барри Ребеллом и Брайаном Расселом). Первые программные продукты Clipper - ClipperWinter’84 (май 1985 г.), ClipperWinter’85 (январь 1986 г.), McMax (версия для ПК Macintosh - сентябрь 1986 г.) и ClipperSummer’87 (декабрь 1987 г.). Летом 1990 г. была выпущена версия языка Clipper 5.0, получившая широкое распространение в России. Она реализует концепцию открытой архитектуры и представляет собой язык, компилятор и систему разработки программ для ПЭВМ, включающую набор команд и функций, препроцессор , компоновщик, набор утилит (в т.ч. отладчик и встроенную документацию) [173].&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;dBASE -&lt;/p&gt;
-&lt;p&gt;1.Язык программирования высокого уровня, предназначенный для создания пакетов прикладных программ, связанных с манипулированием большими объемами данных (Xbase). Первая версия языка dBASE II вышла в свет в начале 1980-х гг., в августе 1994 г. была выпущена версия dBASE 5.0 для Windows (подробнее см. [79]);&lt;/p&gt;
-&lt;p&gt;2.Семейство программ для ПЭВМ, предназначенное для манипулирования большими объемами данных.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;FoxPro - Объектно-ориентированный язык, предназначенный для создания пакетов прикладных программ, в том числе для современных операционных систем, например - версия этого языка FoxPro for Windows . Об одной из последних версий этого языка - Visual FoxPro 3.0 фирмы Microsoft см. в [84].&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;SGML (Standardized General Markup Language) – “ Стандартизованный обобщенный язык разметки”. Разработка языка была вызвана необходимостью создания средств описания документов и правил их построения. Для задания структуры документа используются специальные метки – “теги”, которые отделяют друг от друга элементы документа и файлы определения типа документа (Document Type Definition – DTD ), выполняющие функции “грамматики” и определяющие структуру и содержание каждого элемента в документе. Принят ISO в качестве стандарта в 80-е годы. Сложность этого языка помешала ему лечь в основу первой спецификации для Web – HTML , который стал производным от SGML [336].&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;html, html (HyperText Markup Language) - “ Язык разметки гипертекста” разработан в исследовательском центре CERN в 1992 г. Он является производным от SGML (см. ниже). html устанавливает формат гипермедийных документов, в сети WWW . HTML-документы представляют собой ASCII -файлы, доступные для просмотра и редактирования в любом текстовом редакторе. Отличием от обычного текстового файла является наличие в HTML-документах специальных команд - тэгов, которые указывают правила форматирования документа [114, 141, 329, 336]. Полное описание html можно получить по сетевому адресу: &amp;lt;http://www. access.digex.net/^werbach/barebone.html&amp;gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Самая крутая бургерная!</title>
-      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-3/</link>
-      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-3/</guid>
-      <description>&lt;h2 id=&#34;мои-впечатления&#34;&gt;Мои впечатления.&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;На этой неделе я посетила бургерную Москвы &amp;ldquo;Burger Heroes. Мне очень понравилось, прекрасная атмосфера, хорошее и быстрое обслуживание. Демократичные цены и очень вкусные блюда. Есть много различных акции и скидок, а так же скидка на бургер для студентов. Если хотите быстро и недорого перекусить - всем советую! Обязательно попробуйте их бургер &amp;ldquo;Чёрная мамба&amp;rdquo;. Это самое прекрасное, что может случится с вами в жини!&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;P.s. При регистрации на их сайте вы получаете 300 бонусов, что равно 300 рублей. Пользуйтесь!&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Посещение музея современного искусства &#34;Мультимедиа Арт Музей&#34;</title>
-      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-2/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-2/</guid>
-      <description>&lt;h2 id=&#34;мои-впечатления&#34;&gt;Мои впечатления.&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;На этой неделе мы с подругой сходили в &amp;ldquo;Мультимедиа Арт Музей&amp;rdquo;. Это не совсем обычный музей, который мы привыкли видеть. Порой непонятные и странные экземпляры были представлены на ней.&lt;/li&gt;
-&lt;li&gt;Вы можете себе представить батут в музее, на котором вы можете попрыгать? Честно, я тоже нет и так не поняла задумки автора.&lt;/li&gt;
-&lt;li&gt;А устройство, оборажающее молнии, которые происходят в реальном времени?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Эта экскурсия мне запомнится надолго! Советую всем сходить на данную выставку. Поспешите, совсем скоро она закроется.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Язык разметки Markdown.</title>
-      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D1%80%D0%BE-markdown/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D1%80%D0%BE-markdown/</guid>
-      <description>&lt;h2 id=&#34;полезная-информация&#34;&gt;Полезная информация.&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Совсем недавно я познакомилась с языком размтки Markdown. Хочу поделиться с вами информацией, которая может быть вам полезна.
-Markdown — это простой язык разметки, используемый для создания форматированного текста (например, HTML) с помощью текстового редактора. Он позволяет добавлять к тексту базовое форматирование, используя символы, известные и доступные на всех клавиатурах. Размер шрифта, цвет и другие расширенные параметры недоступны в Markdown.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;зачем-он-нужен&#34;&gt;Зачем он нужен?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Для добавления разметки туда, где невозможна реальная разметка. Например, в простом текстовом файле или в тех же СМС, где невозможно выделение жирным, создание заголовков, выделение цитат и пр.&lt;/li&gt;
-&lt;li&gt;Для более удобного написания текстов для последующей конвертации в HTML или другие форматы.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;С синтаксисом данного языка вы можете ознакомиться по ссылке: &lt;a href=&#34;https://guides.hexlet.io/ru/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ознакомление с синтаксисом языка&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Неделя в родном городе!</title>
-      <link>https://example.com/post/getting-started/</link>
-      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;мои-впечатления&#34;&gt;Мои впечатления.&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Это было по настоящему долгожданная поездка в мой город. После новогодних каникул у меня не было возможности приехать в Лебедянь. И вот, спустя 3 месяца, я смогла попасть туда. Встреча с родтсвенниками была очень тёплой!&lt;/li&gt;
-&lt;li&gt;Я наконец-то увиделась с друзьями, с которыми мы отлично провели время.&lt;/li&gt;
-&lt;li&gt;Помимо этого, я очень скучала по своему домашнему питомцу. Это Йорк, его вы можете видеть на фотографии :)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Я очень люблю гулять по своему городу. Огромные поля - особенность моего города. В мае всё начинает цвести и распускаться, и это не может не радовать меня. Хоть мой город маленький и порой немного скучный, я люблю его природу.
-К сожалению, всегда приходит время расставаться, но я знаю, что летом я обязательно приеду в свой город, к своим близким людям!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Оформление отчёта</title>
-      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
-      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
-      <description>&lt;h2 id=&#34;информация&#34;&gt;Информация.&lt;/h2&gt;
+&lt;p&gt;Cooking process&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Область применения
-Настоящие рекомендации устанавливают требования к структуре и правилам
-оформления отчетов по лабораторным работам, выполненных студентами Пермского
-государственного технического университета очной и заочной форм обучения в
-лабораториях кафедры Автоматизации технологических процессов и производств.&lt;/li&gt;
-&lt;li&gt;Нормативные ссылки
-В настоящих рекомендациях использованы ссылки на следующие стандарты:
-ГОСТ 7.32 – 2001 Отчет о научно-исследовательской работе. Структура и правила
-оформления.
-ГОСТ Р 7.05 – 2008 Библиографическая ссылка. Общие требования и правила
-составления.&lt;/li&gt;
-&lt;li&gt;Общие положения
-3.1. Отчет о лабораторной работе – технический документ, который содержит
-систематизированные данные о лабораторной работе, описывает теорию, используемую в
-лабораторной работе, ход лабораторной работы, расчеты и результаты, полученные в ходе
-лабораторной работы.
-3.2. Отчет составляется по результатам выполнения студентом лабораторной работы.
-3.3. Студент несет ответственность за достоверность данных, представленных в
-отчете по лабораторной работе.
-3.4. Отчет
-по
-лабораторной
-работе
-подлежит
-обязательной
-проверке,
-осуществляемой преподавателем кафедры АТП.&lt;/li&gt;
-&lt;li&gt;Структурные элементы отчета
-Структурными элементами отчета по лабораторной работе являются:&lt;/li&gt;
+&lt;li&gt;In a large bowl, beat eggs and sugar.&lt;/li&gt;
+&lt;li&gt;Heat part of the milk, salt and mix thoroughly with beaten eggs and sugar.&lt;/li&gt;
+&lt;li&gt;Gradually add flour to the resulting mixture, constantly stirring so that there are no lumps.&lt;/li&gt;
+&lt;li&gt;Add some soda, salt and oil. Mix.&lt;/li&gt;
+&lt;li&gt;Add the rest of the milk and whisk. The dough should be moderately liquid.&lt;/li&gt;
+&lt;li&gt;Heat up the pan.&lt;/li&gt;
+&lt;li&gt;Fry the pancake on both sides until golden brown.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gravity Falls is the best cartoon ever!</title>
+      <link>https://kseniyasyachinova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82-5/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://kseniyasyachinova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82-5/</guid>
+      <description>&lt;h2 id=&#34;my-impressions&#34;&gt;My impressions.&lt;/h2&gt;
+&lt;p&gt;Gravity Falls is an American animated television series created by Alex Hirsch and Disney Television Animation for Disney Channel and Disney XD.&lt;/p&gt;
+&lt;p&gt;The animated series tells about the adventures of twins - the boy Dipper and the girl Mabel, who spend their summer holidays with great-uncle Stan in a fictional American town called Gravity Falls.&lt;/p&gt;
+&lt;p&gt;It premiered on June 15, 2012 on Disney Channel. On June 14, 2014, it was announced that the second season would premiere on August 1 and 4, 2014 on Disney Channel and Disney XD, respectively. On November 20, 2015, Alex Hirsch stated that the series would end with its second season. The final episode of the second season, &amp;ldquo;Weirdmageddon 3: Take Back Gravity Falls&amp;rdquo;, aired on February 15, 2016. On his Twitter, the creator of the animated series, Alex Hirsch, announced an addition to the series in the form of a comic book.&lt;/p&gt;
+&lt;p&gt;main characters&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dipper Pines is a 12-year-old boy, Mabel&amp;rsquo;s twin brother, who came to Gravity Falls for the summer holidays. Always wears a cap. I came to Gravity Falls for the summer and found a mysterious diary there. Dreams of finding the author of diaries. In love with Wendy.&lt;/li&gt;
+&lt;li&gt;Mabel Pines is a 12-year-old girl, Dipper&amp;rsquo;s twin sister. Kind and cheerful. He loves his piggy Waddles. Wears various sweaters.&lt;/li&gt;
+&lt;li&gt;Stanley &amp;ldquo;Uncle Stan&amp;rdquo; Pines is Dipper and Mabel&amp;rsquo;s great-uncle whom they call Uncle. Owner of the Mystery Shack.&lt;/li&gt;
+&lt;li&gt;Zus Ramirez - 22-year-old master and permanent employee of the &amp;ldquo;Shack of Miracles&amp;rdquo;; good friend of Dipper and Mabel. Likes to eat delicious food. Fact: in the Russian dubbing, the name of Susa was renamed to Zus, indicating godlikeness.&lt;/li&gt;
+&lt;li&gt;Wendy Corduroy - 15-year-old red-haired girl, employee of the &amp;ldquo;Mystery Shack&amp;rdquo;. Dipper&amp;rsquo;s crush.&lt;/li&gt;
+&lt;li&gt;Stanford Pines is the missing twin brother of Stanley Pines, great uncle of Dipper and Mabel. Scientist and diarist.&lt;/li&gt;
+&lt;li&gt;Bill Cipher - an ancient powerful demon from another plane of existence, who wants to penetrate the human world. The main antagonist of the series.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gravity Falls is the quintessence of mysticism, humor, friendship and adventure! I can rewatch this series many times, because every time it is again interesting and fun. The family also adds a note to the series, which makes it even warmer. Uncle Stan is such a convex image, when I see him, I immediately remember my own dad. Perhaps this is due to the attitude to everything and the desire to earn money. One goal, so to speak. At the same time, the series unobtrusively broadcasts family values, support and love.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Moscow Zoo</title>
+      <link>https://kseniyasyachinova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82-4/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://kseniyasyachinova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82-4/</guid>
+      <description>&lt;h2 id=&#34;my-impressions&#34;&gt;My impressions.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The Moscow Zoo is one of the oldest in Europe. In terms of the size of the collection, it ranks 4th among European zoos and is among the top ten zoos in the world with the most extensive collections.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Moscow Zoo and its branches keep and breed the rarest species of animals - from Amur leopards and Trans-Baikal manuls to crocodile shinizaurs and Zagros newts. In addition, the zoo has a unique collection of venomous snakes that has no analogues in the world.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It was very interesting and informative, but it is really a pity to see some animals in cages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages.</title>
+      <link>https://kseniyasyachinova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D1%80%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://kseniyasyachinova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D1%80%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;theory&#34;&gt;Theory.&lt;/h2&gt;
+&lt;p&gt;A programming language is a formalized language designed to describe programs and algorithms for solving problems on a computer. Programming languages ​​are artificial. Their syntax and semantics are strictly defined. Therefore, they do not allow free interpretation of the expression, which is typical for natural language. Programming languages ​​fall into two main categories high-level languages ​​and low-level languages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;High-level language [high-level language] - A programming language, the means of which provide a description of the problem in a visual, easily perceived form, convenient for the programmer. It does not depend on the internal machine codes of any type of computer, so programs written in high-level languages ​​require translation into machine codes by translator or interpreter programs. High-level languages ​​include Fortran, PL / 1, BASIC, Pascal, C, Ada, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Low-level language, [low-level language] - A programming language designed for a particular type of computer and reflecting its internal machine code (see also “machine language”, “machine-oriented language” and “assembler language” below).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are also the following types of programming languages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Algorithmic language [algorithmic language] - A set of symbols, conventions and rules used to unambiguously describe algorithms and is usually part of a programming language;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nonalgorithmic language [nonalgorithmic language] - A programming language, the texts of which do not contain instructions on the order of operations and serve only as source material for the synthesis of an algorithm for solving a problem;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Formal language [formal language] - a programming language built according to the rules of some logical calculus or formal grammar [formal grammar], which is a system of rules for constructing finite sign sequences in a given alphabet, the set of which forms a formal language;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Source language - the programming language in which the program is written, as opposed to the machine language in which programs are executed by the computer. Source languages ​​are classified into high level languages ​​and low level languages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Machine (absolute) language, computer language [computer (machine) language] - A programming language designed to represent programs in a form that makes it possible to execute them by technical means;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Machine-dependent (machine-oriented) language, machine-dependent programming language [computer-sensitive (computer-oriented) language] - A programming language that takes into account the structure and characteristics of a computer of a certain type or a specific computer;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Machine-independent language [machine-independent language] - A programming language whose structure and means are not associated with any particular computer and allow you to execute programs compiled on it on any computer equipped with translators (see below) from this language;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Symbolic language, symbolic coding language [symbolic language] - A programming language focused on specific computers and based on encoding machine operations using a specific set of characters;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hybrid (combined) language [hybrid language] - A programming language that also uses the means of another language;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Graphic language [graphic language] - A language designed for writing computer graphics programs and using them.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Base language [base language] –&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Machine language, common to the family of computers;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Programming language in DBMS with offline language.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Common language [common language] - Machine language common to a group of computers and external devices used by them;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reference language [reference language] - The language that is the basis for all its specific versions, which are options for adapting the reference language to certain conditions of use and purpose;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Assembly language, assembler [assembler language] - Universal programming language, belonging to the category of low-level languages, the structure of which is determined by command formats, machine language data and computer architecture. It is used by programmers in cases where it is impossible to use a high-level language or efficient programs in machine codes are required.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Declarative (non-procedural) language [declararative (nonprocedural) language] - A programming language that allows you to set connections and relationships between objects and quantities, but does not determine the sequence of actions (for example, Prolog languages, QBE);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Imperative (procedural) language [imperative language] - A programming language that allows you to explicitly (by specifying executable operators) determine the actions and the order (sequence) of their execution;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Functional programming language, functional language [functional language] - A declarative programming language based on the concept of functions that define a dependency but do not determine the order of evaluation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Specialized language [special language] - A programming language focused on solving a certain range of problems;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Page Description Language [PDL - Page Description Language] - A specialized language designed for printing devices. Provides the ability to use images in a format that is independent of the settings of the display device. The best known language of this type is PostScript.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Autonomous language [freestanding language] - Specialized high-level language, in closed DBMS (&amp;ldquo;DBMS with autonomous language&amp;rdquo;);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Language for designing interactive technologies - In DBMS - a language designed to describe the technological processes of data processing, taking into account the separation of the nature of operations by their types, as well as providing a dialogue with the system administrator;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data Manipulation Language, JMD [DML - Data Manipulation Language] - In a DBMS - a language designed to access a database and perform searches, reading and modifying its records;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Language of processing lists [list language] - A specialized language designed to describe the processes of processing data presented in the form of lists of objects;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data description language [DDL - Data Description Language] - A language designed to describe the &amp;ldquo;conceptual schema&amp;rdquo; of the database;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data Storage Description Language [DSDL - Data Storage Description Language] - A language designed to describe the physical structure (schema) of a database;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Page description language [page description language] A system for encoding documents that accurately describes their appearance after preparation for printing or display. An example of such a language is PDF (Portable Document Format), developed by Adobe for storing and presenting page images.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Knowledge Representation Language [KRL - Knowledge Representation Language] - Declarative or declarative-procedural language designed to represent knowledge in computer memory (for example, Lisp and Prolog languages);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Publication language [publication language] - The language used to publish algorithms and programs;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Specification language [specification language] - Declarative language for specifying program specifications;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Problem-oriented language [problem-oriented language] - A programming language designed to solve a certain class of tasks (problems);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Procedural (procedure-oriented) language [procedure-orinted language] - A problem-oriented language that facilitates the expression of a procedure as an exact algorithm;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Real-time language [real-time language] - A language used for programming tasks in which the reaction time of the computer is critical.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Developments and names of programming languages&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Ada [Ada] - A high-level programming language oriented to real-time systems and designed to automate the tasks of managing processes and / or devices, for example, in on-board (ship, aviation, etc.) computers. Developed at the initiative of the US Department of Defense in the 1980s. Named after the English mathematician Ada Augusta Byron (Lovelace), who lived from 1815-1851.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Algol [ALGOL - ALGOrithmic Language] - A high-level programming language focused on the description of algorithms for solving computational problems. It was created in 1958 by specialists from Western European countries for scientific research. The Algol-60 version of this language was adopted by the International Conference in Paris (1960) and was widely used on computers of the 2nd generation. The Algol-68 version, developed by a group of specialists from the International Federation for Information Processing (IFIP) in 1968, received the status of an international universal programming language focused on solving not only computational, but also informational problems. Although Algol is hardly used at present, it served as a basis or had a significant influence on the development of more modern languages, for example, Ada, Pascal, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BASIC [BASIC - Beginner&amp;rsquo;s All-purpose Symbolic Instruction Code] - High-level programming language, developed in 1963 - 1964. at Dartmouth College by Thomas Kurt and John Kemeny. Originally intended for teaching programming. It is simple, easy to learn by novice programmers due to the presence of simplified Fortran language constructs and built-in mathematical functions, algorithms and operators. There are many different versions of BASIC that are not fully compatible with each other. Some BASIC implementations include facilities for handling data and datasets. Most versions of BASIC use an interpreter that converts its components into machine code and allows you to run programs without an intermediate translation. Some more advanced versions of BASIC allow the use of translators for this purpose. On the IBM PC, Microsoft&amp;rsquo;s Quick Basic, Borland&amp;rsquo;s Turbo Basic, and Power Basic (an upgraded version of Turbo Basic distributed by Spectra Publishing) are widely used. In early 1999, Microsoft released a version of Visual Basic 6.0 (VB 6.0) for building rich software applications for enterprise systems. See [429] for more details.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;COBOL [COBOL - COmmon Business-Oriented Language] - A high-level programming language developed in the late 1950s. association CADASIL to solve commercial and economic problems. Differs in advanced means of working with files. Since the commands of programs written in this language make heavy use of ordinary English vocabulary and syntax, Cobol is regarded as one of the simplest programming languages. Currently used to solve economic, informational and other problems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lisp [LISP - LISt Processing] - An algorithmic language developed in 1960 by J. McCarthy and designed to manipulate lists of data elements. Used primarily in US university laboratories to solve problems related to artificial intelligence. In Europe, for work on artificial intelligence, they prefer to use Prolog.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LOGO [LOGO from Greek. logos - word ] - A high-level programming language developed at the Massachusetts Institute of Technology around 1970 for the purpose of teaching mathematical concepts. It is also used in schools and by PC users when writing programs for creating drawings on a monitor screen and controlling a pen plotter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pascal [PASCAL - an acronym from French - Program Applique a la Selection et la Compilation Automatique de la Litterature] - A high-level procedurally oriented programming language developed in the late 1960s. Niklaus Wirth, originally to teach programming at universities. Named after the 17th century French mathematician Blaise Pascal. In its initial version, Pascal had rather limited capabilities, since it was intended for educational purposes, but its subsequent improvements made it a good universal language, widely used, among other things, for writing large and complex programs. There are a number of versions of the language (for example, ETH Pascal, USD Pascal, Turbo Pascal) and programming systems in this language for different types of computers. For the IBM PC, the most popular system is Turbo Pascal by Borland (USA). For more details on the Pskal languages ​​and their development see [653].&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prolog [PROLOG - PROgramming in LOGic] - A high-level programming language of a declarative type (see declarative programming above), designed to develop artificial intelligence systems and programs. Belongs to the category of languages ​​​​of the fifth pok&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The coolest burger place!</title>
+      <link>https://kseniyasyachinova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82-3/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://kseniyasyachinova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82-3/</guid>
+      <description>&lt;h2 id=&#34;my-impressions&#34;&gt;My impressions.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This week I visited the Moscow burger &amp;ldquo;Burger Heroes&amp;rdquo;. I really liked it, great atmosphere, good and fast service. Reasonable prices and very tasty dishes. There are many different promotions and discounts, as well as a discount on a burger for students. If you want a quick and an inexpensive bite to eat - I advise everyone! Be sure to try their Black Mamba burger. It&amp;rsquo;s the most beautiful thing that can happen to you in life!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;P.s. When you register on their website, you get 300 bonuses, which is equal to 300 rubles. Enjoy!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown language.</title>
+      <link>https://kseniyasyachinova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D1%80%D0%BE-markdown/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://kseniyasyachinova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D1%80%D0%BE-markdown/</guid>
+      <description>&lt;h2 id=&#34;useful-information&#34;&gt;Useful information.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Most recently, I got acquainted with the markup language Markdown. I want to share with you information that may be useful to you.
+Markdown is a simple markup language used to create rich text (such as HTML) with a text editor. It allows you to add basic formatting to text using characters known and available on all keyboards. Font size, color, and other advanced options are not available in Markdown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;why-is-it-needed&#34;&gt;Why is it needed?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To add markup where no real markup is possible. For example, in a simple text file or in the same SMS, where it is impossible to bold, create headings, highlight quotes, etc.&lt;/li&gt;
+&lt;li&gt;For more convenient writing of texts for subsequent conversion to HTML or other formats.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can familiarize yourself with the syntax of this language at the link: &lt;a href=&#34;https://guides.hexlet.io/en/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introduction to the syntax of the language&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visit to the Museum of Contemporary Art &#34;Multimedia Art Museum&#34;</title>
+      <link>https://kseniyasyachinova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82-2/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://kseniyasyachinova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82-2/</guid>
+      <description>&lt;h2 id=&#34;my-impressions&#34;&gt;My impressions.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This week my friend and I went to the &amp;ldquo;Multimedia Art Museum&amp;rdquo;. This is not quite the usual museum that we are used to seeing. Sometimes incomprehensible and strange specimens were presented on it.&lt;/li&gt;
+&lt;li&gt;Can you imagine a trampoline in a museum where you can jump? To be honest, I didn’t and didn’t understand the author’s intentions.&lt;/li&gt;
+&lt;li&gt;What about a device that simulates lightning that occurs in real time?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I will remember this tour for a long time! I advise everyone to go to this exhibition. Hurry, it will close soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A week in my hometown!</title>
+      <link>https://kseniyasyachinova.github.io/post/getting-started/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://kseniyasyachinova.github.io/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;my-impressions&#34;&gt;My impressions.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;It was a truly long-awaited trip to my city. After the New Year holidays, I did not have the opportunity to come to Lebedyan. And now, after 3 months, I was able to get there. The meeting with relatives was very warm!&lt;/li&gt;
+&lt;li&gt;I finally saw my friends with whom we had a great time.&lt;/li&gt;
+&lt;li&gt;In addition, I really missed my pet. This is York, you can see it in the photo :)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I love walking around my city. Huge fields are a feature of my city. In May, everything begins to bloom and bloom, and this cannot but rejoice me. Although my city is small and sometimes a little boring, I love its nature.
+Unfortunately, the time always comes to part, but I know that in the summer I will definitely come to my city, to my loved ones!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report design</title>
+      <link>https://kseniyasyachinova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://kseniyasyachinova.github.io/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
+      <description>&lt;h2 id=&#34;information&#34;&gt;Information.&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Area of ​​use
+These guidelines establish requirements for the structure and rules
+preparation of reports on laboratory work performed by students of the Perm
+State Technical University of full-time and part-time education in
+laboratories of the Department of Automation of technological processes and productions.&lt;/li&gt;
+&lt;li&gt;Regulatory references
+References are made in these guidelines to the following standards:
+GOST 7.32 - 2001 Research report. Structure and rules
+design.
+GOST R 7.05 - 2008 Bibliographic reference. General requirements and rules
+drafting.&lt;/li&gt;
+&lt;li&gt;General provisions
+3.1. The Lab Report is a white paper that contains
+systematized data on laboratory work, describes the theory used in
+laboratory work, progress of laboratory work, calculations and results obtained during
+laboratory work.
+3.2. The report is compiled based on the results of the student&amp;rsquo;s laboratory work.
+3.3. The student is responsible for the accuracy of the data provided in
+lab report.
+3.4. Report on laboratory work subject to mandatory verification,
+carried out by the teacher of the department of ATP.&lt;/li&gt;
+&lt;li&gt;Structural elements of the report
+The structural elements of a lab report are:&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;титульный лист;&lt;/li&gt;
-&lt;li&gt;цель работы;&lt;/li&gt;
-&lt;li&gt;теоретические сведения;&lt;/li&gt;
-&lt;li&gt;расчетно-графическая часть;&lt;/li&gt;
-&lt;li&gt;выводы по работе;&lt;/li&gt;
-&lt;li&gt;список используемой литературы.&lt;/li&gt;
+&lt;li&gt;title page;&lt;/li&gt;
+&lt;li&gt;purpose of the work;&lt;/li&gt;
+&lt;li&gt;theoretical information;&lt;/li&gt;
+&lt;li&gt;calculation and graphic part;&lt;/li&gt;
+&lt;li&gt;conclusions on the work;&lt;/li&gt;
+&lt;li&gt;Bibliography.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;5&#34;&gt;
-&lt;li&gt;Требования к содержанию структурных элементов отчета
-5.1. Титульный лист
-5.1.1. Титульный лист является первой страницей отчета по лабораторной работе и
-служит источником информации, необходимой для поиска и обработки документа.
-5.1.2. На титульном листе отчета по лабораторной работе обязательно приводятся
-следующие данные:&lt;/li&gt;
+&lt;li&gt;Requirements for the content of the structural elements of the report
+5.1. Title page
+5.1.1. The title page is the first page of the lab report and
+serves as a source of information necessary for the search and processing of the document.
+5.1.2. The title page of the lab report must include
+the following data:&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;наименование вышестоящей организации;&lt;/li&gt;
-&lt;li&gt;наименование типа учебного заведения;&lt;/li&gt;
-&lt;li&gt;наименование учебного заведения;&lt;/li&gt;
-&lt;li&gt;кафедра, проводящая лабораторные работы;&lt;/li&gt;
-&lt;li&gt;номер лабораторной работы;&lt;/li&gt;
-&lt;li&gt;название лабораторной работы;&lt;/li&gt;
-&lt;li&gt;данные о группе и студенте, выполнявшего лабораторную работу;&lt;/li&gt;
-&lt;li&gt;данные о преподавателе, проверяющего отчет студента по лабораторной работе;&lt;/li&gt;
-&lt;li&gt;год и город
-Образцы титульных листов отчетов по лабораторным работам приведены в
-приложениях А и Б.
-5.1.3. При проверке преподавателем студенческих отчетов по лабораторным работам
-на титульном листе преподавателем записываются замечания по отчету. Поэтому в случае
-необходимости переоформления отчета или внесения в содержание отчета исправлений
-титульный лист остается первоначальным (не заменяется новым) для того, чтобы при
-вторичной проверке отчета преподаватель видел все предыдущие замечания.
-5.2. Цель работы
-5.2.1. В отчете по лабораторной работе обязательно должна быть указана цель (цели)
-лабораторной работы. Допускается указать задачи, на которые была разбита цель.
-5.3. Теоретические сведения
-5.3.1. В отчете по лабораторной работе обязательно должны быть указаны
-теоретические сведения, необходимые для выполнения лабораторной работы.
-5.3.2. В конце теоретических сведений помещается описание лабораторной
-установки.
-5.4. Расчетно-графическая часть
-5.4.1. В начале расчетно-графической части указываются исходные данные по
-лабораторной работе.
-5.4.2. Приводятся все данные, расчеты и графические построения, необходимые для
-достижения цели (целей) лабораторной работы.
-5.5 Выводы по работе
-5.5.1. Отчет по лабораторной работе обязательно должен содержать выводы по
-лабораторной работе.
-5.5.2. Выводы по лабораторной работе должны отражать факт достижения цели
-лабораторной работы.
-5.6. Список используемой литературы
-Список используемой литературы оформляется в соответствии с ГОСТ Р 7.05 – 2008.
-В приложении В приведен пример оформления библиографического списка.
-Примечание – содержание отчетов, приведенное в пунктах 5.3 и 5.4, является
-примерным и определяется конкретно преподавателем в зависимости от специфики
-дисциплины и лабораторной работы.&lt;/li&gt;
+&lt;li&gt;name of the parent organization;&lt;/li&gt;
+&lt;li&gt;name of the type of educational institution;&lt;/li&gt;
+&lt;li&gt;name of the educational institution;&lt;/li&gt;
+&lt;li&gt;department conducting laboratory work;&lt;/li&gt;
+&lt;li&gt;number of laboratory work;&lt;/li&gt;
+&lt;li&gt;the name of the laboratory work;&lt;/li&gt;
+&lt;li&gt;data about the group and the student who performed the laboratory work;&lt;/li&gt;
+&lt;li&gt;data on the teacher checking the student&amp;rsquo;s report on laboratory work;&lt;/li&gt;
+&lt;li&gt;year and city
+Sample cover sheets for lab reports are provided in
+applications A and B.
+5.1.3. When the teacher checks student reports on laboratory work
+on the title page, the teacher writes comments on the report. Therefore, in the case
+the need to re-format the report or make corrections to the content of the report
+the title page remains original (not replaced by a new one) in order to
+Secondary review of the report by the instructor saw all previous comments.
+5.2. Objective
+5.2.1. The lab report must include the goal(s)
+laboratory work. It is allowed to indicate the tasks into which the goal was divided.
+5.3. Theoretical information
+5.3.1. The lab report must include
+theoretical information necessary to perform laboratory work.
+5.3.2. At the end of the theoretical information is placed a description of the laboratory
+installation.
+5.4. Settlement and graphic part
+5.4.1. At the beginning of the calculation and graphic part, the initial data on
+laboratory work.
+5.4.2. All data, calculations and graphical constructions necessary for
+achieving the goal(s) of the laboratory work.
+5.5 Conclusions on the work
+5.5.1. The laboratory work report must contain conclusions on
+laboratory work.
+5.5.2. Conclusions on laboratory work should reflect the fact of achieving the goal
+laboratory work.
+5.6. Bibliography
+The list of used literature is drawn up in accordance with GOST R 7.05 - 2008.
+Appendix B gives an example of the design of a bibliographic list.
+Note - the content of the reports given in paragraphs 5.3 and 5.4 is
+exemplary and is determined specifically by the teacher, depending on the specifics
+discipline and laboratory work.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;6&#34;&gt;
-&lt;li&gt;Правила оформления отчета
-6.1. Общие требования
-6.1.1. В соответствии с ГОСТ 7.32 – 2001 отчет по лабораторной работе оформляется
-любым печатным способом на одной стороне листа белой бумаги формата А4. На
-усмотрение преподавателя допускается рукописный вариант текста.
-6.1.2. В отчете по лабораторной работе допускается интервал 1.0 и 1.5, кегль не
-менее 12, выравнивание по ширине, отступ красной строки 1.0.
-6.1.3. Цвет шрифта должен быть черным.
-6.2. Нумерация страниц отчета
-6.2.1. Страницы отчета следует нумеровать арабскими цифрами, соблюдая сквозную
-нумерацию по всему тексту отчета. Номер страницы проставляется в низу каждого листа
-по центру.
-6.2.2. Титульный лист включается в общую нумерацию страниц отчета. Номер
-страницы на титульном листе не проставляется.
-6.3. Нумерация разделов и подразделов отчета
-6.3.1. Разделы должны иметь порядковые номера в пределах всего отчета,
-обозначенные арабскими цифрами.
-6.3.2. Разделы могут быть разбиты на подразделы. Нумерация подразделов
-составляется из номера раздела и подраздела, обозначенного через точку, например,
-«1.1.». В конце названия разделов и подразделов точка не ставится.
-6.4. Иллюстрации
-6.4.1. Иллюстрации подписываются снизу арабскими цифрами через пробел после
-слова «Рисунок» и имеют либо сквозную нумерацию, либо нумерацию в соответствии с
-разделами отчета.
-6.4.2. Все иллюстрации (рисунки) должны иметь название, которое указывается
-после номера иллюстрации через тире, например, «Рисунок 1 – Структурная схема
-одноконтурной САР».
-6.4.3. Подписи всех иллюстраций выравниваются по центру строки.
-6.5. Графики
-6.5.1. Графики должны быть четкими. При оформлении графиков необходимо
-указывать обозначения координатных осей и самих графиков.
-6.5.2. Если графики отражают сравнение двух экспериментов, рекомендуется их
-выполнение в одной системе координат.
-6.6. Таблицы
-6.5.1. В отчете по лабораторной работе рекомендуется сквозная нумерация таблиц.
-Допускается нумерация таблиц в пределах раздела отчета. В этом случае номер
-таблицы состоит из номера раздела и порядкового номера таблицы, разделенных точкой.
-6.5.2. Таблицы нумеруются арабскими цифрами.
-6.5.3. Нумерация таблиц производится со словом «Таблица» без знака «№»,
-например, «Таблица 1».
-6.5.4. Каждая таблица должна иметь название, которое следует помещать над
-таблицей слева без абзацного отступа в одну строку с ее номером через тире.&lt;/li&gt;
+&lt;li&gt;Report formatting rules
+6.1. General requirements
+6.1.1. In accordance with GOST 7.32 - 2001, a laboratory work report is issued
+printed in any way on one side of a sheet of white A4 paper. On the
+At the discretion of the teacher, a handwritten version of the text is allowed.
+6.1.2. In the report on laboratory work, an interval of 1.0 and 1.5 is allowed, the size is not
+less than 12, justified, red line indent 1.0.
+6.1.3. The font color must be black.
+6.2. Report pagination
+6.2.1. The pages of the report should be numbered with Arabic numerals, following the through
+numbering throughout the text of the report. The page number is placed at the bottom of each sheet.
+in the center.
+6.2.2. The title page is included in the overall page numbering of the report. Number
+page on the title page is not affixed.
+6.3. Numbering of sections and subsections of the report
+6.3.1. Sections should be numbered consecutively throughout the report.
+marked with Arabic numerals.
+6.3.2. Sections can be divided into subsections. Subsection numbering
+is made up of the section number and subsection, indicated by a dot, for example,
+&amp;ldquo;1.1.&amp;rdquo;. At the end of the titles of sections and subsections, do not put a dot.
+6.4. Illustrations
+6.4.1. Illustrations are signed below in Arabic numerals with a space after
+the words &amp;ldquo;Figure&amp;rdquo; and have either continuous numbering or numbering in accordance with
+report sections.
+6.4.2. All illustrations (drawings) must have a title that is indicated
+after the illustration number through a dash, for example, “Figure 1 - Structural diagram
+single-loop ATS&amp;quot;.
+6.4.3. The captions of all illustrations are aligned to the center of the line.
+6.5. Graphs
+6.5.1. Graphs must be clear. When drawing up charts,
+indicate the designations of the coordinate axes and the graphs themselves.
+6.5.2. If the graphs reflect a comparison of two experiments, it is recommended that they be
+execution in one coordinate system.
+6.6. tables
+6.5.1. Continuous numbering of tables is recommended in the lab report.
+Numbering of tables within a report section is allowed. In this case, the number
+table consists of the section number and the ordinal number of the table, separated by a dot.
+6.5.2. Tables are numbered with Arabic numerals.
+6.5.3. Tables are numbered with the word &amp;ldquo;Table&amp;rdquo; without the sign &amp;ldquo;No&amp;rdquo;,
+for example, &amp;ldquo;Table 1&amp;rdquo;.
+6.5.4. Each table should have a title that should be placed above
+table on the left without a paragraph indent in one line with its number separated by a dash.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
     
     <item>
-      <title>Управление версиями. Git.</title>
-      <link>https://example.com/post/post-git-hub/</link>
+      <title>Version control. Git.</title>
+      <link>https://kseniyasyachinova.github.io/post/post-git-hub/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post-git-hub/</guid>
-      <description>&lt;h2 id=&#34;информация&#34;&gt;Информация.&lt;/h2&gt;
-&lt;p&gt;Git - это распределенный инструмент контроля версий, который немного сложнее в использовании, чем SVN и другие инструменты контроля версий. Чтобы облегчить понимание, эта статья подробно описывает использование Git с помощью графики, чтобы быстро освоить Git. Основные команды показаны на рисунке.
-Из рисунка выше видно, что Git концептуально разделен на 3 большие области: рабочее пространство, локальный склад и удаленный склад. Существует также область временного хранения, также называемая индексной областью. Давайте посмотрим, что делает каждая область. Ключевым моментом, который отражает Git, является распределенное управление версиями в том, что у него есть локальное хранилище. Фактически обычная работа по управлению версиями выполняется в локальной библиотеке.&lt;/p&gt;
+      <guid>https://kseniyasyachinova.github.io/post/post-git-hub/</guid>
+      <description>&lt;h2 id=&#34;information&#34;&gt;Information.&lt;/h2&gt;
+&lt;p&gt;Git - eto raspredelennyy instrument kontrolya versiy, kotoryy nemnogo slozhneye v ispol&amp;rsquo;zovanii, chem SVN i drugiye instrumenty kontrolya versiy. Chtoby oblegchit&amp;rsquo; ponimaniye, eta stat&amp;rsquo;ya podrobno opisyvayet ispol&amp;rsquo;zovaniye Git s pomoshch&amp;rsquo;yu grafiki, chtoby bystro osvoit&amp;rsquo; Git. Osnovnyye komandy pokazany na risunke. Iz risunka vyshe vidno, chto Git kontseptual&amp;rsquo;no razdelen na 3 bol&amp;rsquo;shiye oblasti: rabocheye prostranstvo, lokal&amp;rsquo;nyy sklad i udalennyy sklad. Sushchestvuyet takzhe oblast&amp;rsquo; vremennogo khraneniya, takzhe nazyvayemaya indeksnoy oblast&amp;rsquo;yu. Davayte posmotrim, chto delayet kazhdaya oblast&amp;rsquo;. Klyuchevym momentom, kotoryy otrazhayet Git, yavlyayetsya raspredelennoye upravleniye versiyami v tom, chto u nego yest&amp;rsquo; lokal&amp;rsquo;noye khranilishche. Fakticheski obychnaya rabota po upravleniyu versiyami vypolnyayetsya v lokal&amp;rsquo;noy biblioteke. - Rabochaya oblast&amp;rsquo;: Na samom dele eto nash rabochiy katalog v operatsionnoy sisteme. My mozhem prosmatrivat&amp;rsquo; komandy upravleniya faylami operatsionnoy sistemy (naprimer, cherez komandu ls v Linux). - Lokal&amp;rsquo;nyy repozitoriy: v rabochey oblasti yest&amp;rsquo; skrytyy katalog .git. Etot katalog i yego soderzhimoye takzhe yavlyayutsya chast&amp;rsquo;yu rabochey oblasti, no yavlyayutsya lokal&amp;rsquo;nym repozitoriyem Git. On ispol&amp;rsquo;zuyetsya dlya
+Ещё
+1 166 / 5 000
+Результаты перевода
+Git is a distributed version control tool that is slightly more difficult to use than SVN and other version control tools. To make it easier to understand, this article details the use of Git with graphics to quickly learn Git. The main commands are shown in the figure.
+From the figure above, you can see that Git is conceptually divided into 3 large areas: the workspace, the local store, and the remote store. There is also a temporary storage area, also called an index area. Let&amp;rsquo;s see what each area does. The key point that Git reflects is distributed versioning in that it has local storage. In fact, the normal versioning work is done in the local library.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Рабочая область: На самом деле это наш рабочий каталог в операционной системе. Мы можем просматривать команды управления файлами операционной системы (например, через команду ls в Linux).&lt;/li&gt;
-&lt;li&gt;Локальный репозиторий: в рабочей области есть скрытый каталог .git. Этот каталог и его содержимое также являются частью рабочей области, но являются локальным репозиторием Git. Он используется для реализации контроля версий.&lt;/li&gt;
-&lt;li&gt;Удаленный склад: Удаленный склад - это склад, хранящийся на удаленном сервере, главным образом для обеспечения многопользовательской совместной работы.&lt;/li&gt;
-&lt;li&gt;Область временного хранения: область временного хранения обычно хранится в файле индекса (.git / index) в «каталоге .git», поэтому мы иногда называем область временного хранения в качестве индекса (индекса).&lt;/li&gt;
+&lt;li&gt;Workspace: This is actually our working directory in the operating system. We can view the file management commands of the operating system (for example, through the ls command in Linux).&lt;/li&gt;
+&lt;li&gt;Local repository: There is a hidden .git directory in the workspace. This directory and its contents are also part of the workspace, but are a local Git repository. It is used for&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

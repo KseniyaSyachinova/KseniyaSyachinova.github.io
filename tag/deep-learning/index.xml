@@ -2,54 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning | Academic</title>
-    <link>https://example.com/tag/deep-learning/</link>
-      <atom:link href="https://example.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kseniyasyachinova.github.io/tag/deep-learning/</link>
+      <atom:link href="https://kseniyasyachinova.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://kseniyasyachinova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
-      <link>https://example.com/tag/deep-learning/</link>
+      <link>https://kseniyasyachinova.github.io/tag/deep-learning/</link>
     </image>
     
     <item>
-      <title>Грозит ли Земле перенаселение</title>
-      <link>https://example.com/project/example/</link>
+      <title>Ecology is our future.</title>
+      <link>https://kseniyasyachinova.github.io/project/example/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Актуальность темы: Экологическая проблема - это изменение природной среды в результате антропогенных воздействий или стихийных бедствий, ведущее к нарушению структуры и функционирования природы.&lt;/p&gt;
-&lt;p&gt;Экологические проблемы возникли как следствие нерационального отношения человека к природе, стремительного роста промышленных технологий, индустриализации и роста населения.&lt;/p&gt;
-&lt;p&gt;Выработка природных ресурсов настолько велика, что встал вопрос об их использовании в будущем. Загрязнение природной среды привело к прогрессирующей гибели представителей растительно-животного мира, загрязнению почв, подземных источников, истощению и деградации почвенного покрова и т.д.&lt;/p&gt;
-&lt;p&gt;От решения экологических проблем зависит прогресс и судьба цивилизации, поэтому решение экологических проблем современного мира является важной и актуальной проблемой.&lt;/p&gt;
-&lt;p&gt;Цель проекта: Изучить экологические проблемы современности.&lt;/p&gt;
-&lt;p&gt;Задачи проекта:&lt;/p&gt;
+      <guid>https://kseniyasyachinova.github.io/project/example/</guid>
+      <description>&lt;p&gt;Relevance of the topic: An environmental problem is a change in the natural environment as a result of anthropogenic impacts or natural disasters, leading to a violation of the structure and functioning of nature.&lt;/p&gt;
+&lt;p&gt;Environmental problems arose as a result of the irrational attitude of man to nature, the rapid growth of industrial technologies, industrialization and population growth.&lt;/p&gt;
+&lt;p&gt;The development of natural resources is so great that the question arose about their use in the future. Pollution of the natural environment has led to the progressive death of representatives of the flora and fauna, pollution of soils, underground sources, depletion and degradation of the soil cover, etc.&lt;/p&gt;
+&lt;p&gt;The progress and fate of civilization depends on the solution of environmental problems, so the solution of environmental problems of the modern world is an important and urgent problem.&lt;/p&gt;
+&lt;p&gt;The purpose of the project: To study the environmental problems of our time.&lt;/p&gt;
+&lt;p&gt;Project objectives:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Рассказать о причинах возникновения экологических проблем в мире;&lt;/li&gt;
-&lt;li&gt;Рассмотреть типологию и классификацию экологических проблем;&lt;/li&gt;
-&lt;li&gt;Анализ основных экологических проблем;&lt;/li&gt;
-&lt;li&gt;Рассмотреть и обозначить основные пути решения экологических проблем.&lt;/li&gt;
+&lt;li&gt;Tell about the causes of environmental problems in the world;&lt;/li&gt;
+&lt;li&gt;Consider the typology and classification of environmental problems;&lt;/li&gt;
+&lt;li&gt;Analysis of the main environmental problems;&lt;/li&gt;
+&lt;li&gt;Consider and identify the main ways to solve environmental problems.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Экологические проблемы современности&lt;/p&gt;
-&lt;p&gt;До самого последнего периода истории Земли живые системы планеты эволюционировали почти в полной гармонии с атмосферой, гидросферой и литосферой, не испытывая влияния человеческой деятельности. Но по мере развития сельского хозяйства и промышленности воздействие человека на среду стало все заметнее. Повсеместная индустриализация, особенно развернувшаяся за последние два столетия, привела к потенциально опасным уровням загрязнения среды.&lt;/p&gt;
-&lt;p&gt;Можно сказать, что загрязнение - это поступление в окружающую среду каких- либо веществ или энергии в таких больших количествах или в течение столь длительного времени, что эти вещества или энергия начинают наносить ущерб людям и окружающей среде. Легко распространяясь от одних компонентов жизнеобеспечения к другим, загрязнение в той или иной степени влияет на все параметры среды - антропогенные и природные, физические и биотические.
-Загрязнение атмосферы&lt;/p&gt;
-&lt;p&gt;Еще в начале шестидесятых годов считали, что загрязнение атмосферы - это локальная проблема больших городов и индустриальных центров, но позже стало ясно, что атмосферные загрязнители способны распространяться по воздуху на большие расстояния, оказывая неблагоприятное воздействие на районы, находящиеся на значительном удалении от места выброса этих веществ.&lt;/p&gt;
-&lt;p&gt;Таким образом, загрязнение атмосферы - это глобальное явление, и для контроля за ним необходимо международное сотрудничество. К числу наиболее распространенных загрязнителей атмосферы относятся такие газы, как хлорфторуглероды, диоксид серы, углеводороды и оксиды азота.&lt;/p&gt;
-&lt;p&gt;Загрязнение может привести к значительному снижению естественной концентрации газов, входящих в состав атмосферы, например озона в стратосфере. В сочетании с углеводородами и соединениями группы NOx озон может представлять собой прямую опасность для здоровья людей, и кроме того, является одной из важных составных частей фотохимического смога.&lt;/p&gt;
-&lt;p&gt;Пыль, шум, чрезмерное количество тепла, радиация и электромагнитные поля - все это загрязнение атмосферы.
-Обеднение озонового слоя&lt;/p&gt;
-&lt;p&gt;Земная атмосфера состоит, главным образом, из азота (около 78%) и кислорода (около 21%). Небольшая часть кислорода находится в атмосфере в виде озона - кислородных молекул.&lt;/p&gt;
-&lt;p&gt;Озон сосредоточен преимущественно в атмосфере на высоте 15-20 километров над земной поверхностью. Несмотря на малое количество, роль озона в биосфере Земли чрезвычайно велика и ответственна. Озоносфера поглощает значительную часть жесткого ультрафиолетового излучения Солнца, губительного для живых организмов.&lt;/p&gt;
-&lt;p&gt;Она - щит жизни, но щит, отрегулированный природой. Более длинноволновую часть ультрафиолетовой радиации озоносфера пропускает. Эта проникающая часть ультрафиолета необходима для жизни: она уничтожает болезнетворные бактерии, способствует выработке в организме человека витамина D. Состояние озонового слоя чрезвычайно важно, ибо даже незначительное изменение интенсивности ультрафиолетовой радиации у земной поверхности может отразиться на живых организмах&lt;/p&gt;
-&lt;p&gt;Причины истончения озонового слоя:&lt;/p&gt;
+&lt;p&gt;Environmental problems of our time&lt;/p&gt;
+&lt;p&gt;Until the very last period of the Earth&amp;rsquo;s history, the living systems of the planet evolved in almost complete harmony with the atmosphere, hydrosphere and lithosphere, without being influenced by human activity. But as agriculture and industry developed, human impact on the environment became more and more noticeable. Widespread industrialization, especially during the last two centuries, has led to potentially dangerous levels of pollution.&lt;/p&gt;
+&lt;p&gt;We can say that pollution is the entry into the environment of any substances or energy in such large quantities or for such a long time that these substances or energy begin to harm people and the environment. Easily spreading from one life-support component to another, pollution to one degree or another affects all environmental parameters - anthropogenic and natural, physical and biotic.
+Air pollution&lt;/p&gt;
+&lt;p&gt;Back in the early sixties, it was believed that atmospheric pollution was a local problem of large cities and industrial centers, but later it became clear that atmospheric pollutants can spread through the air over long distances, having an adverse effect on areas located at a considerable distance from the place of emission of these substances.&lt;/p&gt;
+&lt;p&gt;Thus, air pollution is a global phenomenon and international cooperation is needed to control it. The most common atmospheric pollutants include gases such as chlorofluorocarbons, sulfur dioxide, hydrocarbons and oxides of nitrogen.&lt;/p&gt;
+&lt;p&gt;Pollution can lead to a significant decrease in the natural concentration of gases that make up the atmosphere, such as ozone in the stratosphere. In combination with hydrocarbons and compounds of the NOx group, ozone can be a direct hazard to human health, and is also one of the important constituents of photochemical smog.&lt;/p&gt;
+&lt;p&gt;Dust, noise, excessive heat, radiation and electromagnetic fields are all atmospheric pollution.
+Ozone depletion&lt;/p&gt;
+&lt;p&gt;The earth&amp;rsquo;s atmosphere consists mainly of nitrogen (about 78%) and oxygen (about 21%). A small part of oxygen is in the atmosphere in the form of ozone - oxygen molecules.&lt;/p&gt;
+&lt;p&gt;Ozone is concentrated mainly in the atmosphere at an altitude of 15-20 kilometers above the earth&amp;rsquo;s surface. Despite the small amount, the role of ozone in the Earth&amp;rsquo;s biosphere is extremely large and responsible. The ozonosphere absorbs a significant part of the hard ultraviolet radiation of the Sun, which is detrimental to living organisms.&lt;/p&gt;
+&lt;p&gt;She is a shield of life, but a shield regulated by nature. The ozonosphere transmits the longer-wavelength part of ultraviolet radiation. This penetrating part of ultraviolet radiation is necessary for life: it destroys pathogenic bacteria, promotes the production of vitamin D in the human body. The state of the ozone layer is extremely important, because even a slight change in the intensity of ultraviolet radiation near the earth&amp;rsquo;s surface can affect living organisms&lt;/p&gt;
+&lt;p&gt;Causes of the thinning of the ozone layer:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Во время запуска космических ракет в озоновом слое буквально «выжигаются» дыры. И вопреки старому мнению о том, что они сразу же затягиваются, эти дыры существуют довольно долгое время.&lt;/li&gt;
-&lt;li&gt;Самолеты летающие на высотах в 12-16 км. также приносят вред озоновому слою, тогда как летающие ниже 12 км. напротив способствуют образованию озона.&lt;/li&gt;
-&lt;li&gt;Выброс в атмосферу фреонов.&lt;/li&gt;
+&lt;li&gt;During the launch of space rockets, holes are literally “burned out” in the ozone layer. And contrary to the old belief that they close immediately, these holes have been around for quite some time.&lt;/li&gt;
+&lt;li&gt;Aircraft flying at altitudes of 12-16 km. also harm the ozone layer, while flying below 12 km. on the contrary, they contribute to the formation of ozone.&lt;/li&gt;
+&lt;li&gt;Emission of freons into the atmosphere.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Самой главной причиной разрушения озонового слоя является хлор и его водородные соединения. Огромное количество хлора попадает в атмосферу, в первую очередь от разложения фреонов. Фреоны - это газы, не вступающие у поверхности планеты ни в какие химические реакции. Фреоны закипают и быстро увеличивают свой объем при комнатной температуре, и потому являются хорошими распылителями.&lt;/p&gt;
-&lt;p&gt;Из-за этой особенности фреоны долгое время использовались в изготовлении аэрозолей. И так как, расширяясь, фреоны охлаждаются, они и сейчас очень широко используются в холодильной промышленности. Когда фреоны поднимаются в верхние слои атмосферы, от них под действием ультрафиолетового излучения отщепляется атом хлора, который начинает одну за другой превращать молекулы озона в кислород.&lt;/p&gt;
-&lt;p&gt;Хлор может находиться в атмосфере до 120 лет, и за это время способен разрушить до 100 тысяч молекул озона.&lt;/p&gt;
+&lt;p&gt;Chlorine and its hydrogen compounds are the main cause of the destruction of the ozone layer. A huge amount of chlorine enters the atmosphere, primarily from the decomposition of freons. Freons are gases that do not enter into any chemical reactions near the surface of the planet. Freons boil and quickly increase their volume at room temperature, and therefore are good atomizers.&lt;/p&gt;
+&lt;p&gt;Because of this feature, freons for a long time&lt;/p&gt;
 </description>
     </item>
     
