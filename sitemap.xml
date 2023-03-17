@@ -11,15 +11,19 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/academic/</loc>
-    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/post-6/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/post-3/</loc>
