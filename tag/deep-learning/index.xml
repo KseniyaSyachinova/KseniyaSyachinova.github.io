@@ -5,7 +5,7 @@
     <link>https://example.com/tag/deep-learning/</link>
       <atom:link href="https://example.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
@@ -13,15 +13,51 @@
     </image>
     
     <item>
-      <title>Example Project</title>
+      <title>Is overpopulation threatening the Earth?</title>
       <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <description>&lt;p&gt;Relevance of the topic: An environmental problem is a change in the natural environment as a result of anthropogenic impacts or natural disasters, leading to disruption of the structure and functioning of nature.&lt;/p&gt;
+&lt;p&gt;Environmental problems have arisen as a consequence of irrational human attitude to nature, the rapid growth of industrial technologies, industrialization and population growth.&lt;/p&gt;
+&lt;p&gt;The development of natural resources is so great that the question arose about their use in the future. Pollution of the natural environment has led to the progressive death of representatives of the plant and animal world, pollution of soils, underground sources, depletion and degradation of soil cover, etc.&lt;/p&gt;
+&lt;p&gt;The progress and fate of civilization depends on solving environmental problems, so solving the environmental problems of the modern world is an important and urgent problem.&lt;/p&gt;
+&lt;p&gt;The purpose of the project: To study the environmental problems of our time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project objectives:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;To tell about the causes of environmental problems in the world;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Consider the typology and classification of environmental problems;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Analysis of the main environmental problems;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To consider and identify the main ways to solve environmental problems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Environmental problems of our time&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Until the very last period of the Earth&amp;rsquo;s history, the living systems of the planet evolved almost in complete harmony with the atmosphere, hydrosphere and lithosphere, without being influenced by human activity. But with the development of agriculture and industry, the human impact on the environment has become more noticeable. Widespread industrialization, especially over the past two centuries, has led to potentially dangerous levels of environmental pollution.&lt;/p&gt;
+&lt;p&gt;It can be said that pollution is the entry into the environment of any substances or energy in such large quantities or for such a long time that these substances or energy begin to cause damage to people and the environment. Easily spreading from one life support component to another, pollution affects all environmental parameters to one degree or another - anthropogenic and natural, physical and biotic.
+Atmospheric pollution&lt;/p&gt;
+&lt;p&gt;Back in the early sixties, it was believed that atmospheric pollution was a local problem of large cities and industrial centers, but later it became clear that atmospheric pollutants could spread through the air over long distances, adversely affecting areas located at a considerable distance from the place of release of these substances.&lt;/p&gt;
+&lt;p&gt;Thus, atmospheric pollution is a global phenomenon, and international cooperation is needed to control it. The most common atmospheric pollutants include gases such as chlorofluorocarbons, sulfur dioxide, hydrocarbons and nitrogen oxides.&lt;/p&gt;
+&lt;p&gt;Pollution can lead to a significant decrease in the natural concentration of gases that make up the atmosphere, such as ozone in the stratosphere. In combination with hydrocarbons and compounds of the NOx group, ozone can pose a direct danger to human health, and in addition, it is one of the important components of photochemical smog.&lt;/p&gt;
+&lt;p&gt;Dust, noise, excessive heat, radiation and electromagnetic fields are all air pollution.
+Depletion of the ozone layer&lt;/p&gt;
+&lt;p&gt;The Earth&amp;rsquo;s atmosphere consists mainly of nitrogen (about 78%) and oxygen (about 21%). A small part of oxygen is in the atmosphere in the form of ozone - oxygen molecules.&lt;/p&gt;
+&lt;p&gt;Ozone is concentrated mainly in the atmosphere at an altitude of 15-20 kilometers above the earth&amp;rsquo;s surface. Despite the small amount, the role of ozone in the Earth&amp;rsquo;s biosphere is extremely large and responsible. The ozonosphere absorbs a significant part of the harsh ultraviolet radiation of the Sun, which is harmful to living organisms.&lt;/p&gt;
+&lt;p&gt;She is a shield of life, but a shield regulated by nature. The ozonosphere passes the longer-wavelength part of the ultraviolet radiation. This penetrating part of ultraviolet is necessary for life: it destroys pathogenic bacteria, promotes the production of vitamin D in the human body. The state of the ozone layer is extremely important, because even a slight change in the intensity of ultraviolet radiation at the earth&amp;rsquo;s surface can affect living organisms.&lt;/p&gt;
+&lt;p&gt;Causes of thinning of the ozone layer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;During the launch of space rockets, holes are literally &amp;ldquo;burned out&amp;rdquo; in the ozone layer. And contrary to the old opinion that they are immediately tightened, these holes have existed for quite a long time.&lt;/li&gt;
+&lt;li&gt;Planes flying at altitudes of 12-16 km also harm the ozone layer, while those flying below 12 km, on the contrary, contribute to the formation of ozone.&lt;/li&gt;
+&lt;li&gt;Release of freons into the atmosphere.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The most important reason for the destruction of the ozone layer is chlorine and its hydrogen compounds. A huge amount of chlorine enters the atmosphere, primarily from the decomposition of freons. Freons are gases that do not enter into any chemical reactions near the surface of the planet. Freons boil and quickly increase their volume at room temperature, and therefore are good atomizers.&lt;/p&gt;
+&lt;p&gt;Because of this feature, freons have been used for a long time in the manufacture of aerosols. And since, expanding, freons are cooled, they are still very widely used in the refrigeration industry. When freons rise into the upper atmosphere, a chlorine atom is split off from them under the influence of ultraviolet radiation, which begins to convert ozone molecules into oxygen one by one.&lt;/p&gt;
+&lt;p&gt;Chlorine can be in the atmosphere for up to 120 years, and during this time it can destroy up to 100 thousand ozone molecules.&lt;/p&gt;
 </description>
     </item>
     

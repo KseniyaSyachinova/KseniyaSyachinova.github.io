@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: March 22, 2023 --><html lang="en-us" >
+<!-- Last Published: April 6, 2023 --><html lang="en-us" >
 
 
 <head>
@@ -268,7 +268,7 @@
 
 
 
-  <meta name="author" content="Сячинова Ксения Ивановна" />
+  <meta name="author" content="Syachinova Kseniya Ivanovna" />
 
 
 
@@ -276,9 +276,11 @@
 
   
 
-<meta name="description" content="Здесь Вы можете узнать об управлении версиями." />
+<meta name="description" content="Here you can learn about version control." />
 
 
+
+  <link rel="alternate" hreflang="ru" href="https://example.com/ru/post/post-1/" />
 
 <link rel="alternate" hreflang="en-us" href="https://example.com/post/post-1/" />
 <link rel="canonical" href="https://example.com/post/post-1/" />
@@ -317,8 +319,8 @@
 <meta property="twitter:image" content="https://example.com/post/post-1/featured.jpg" />
 <meta property="og:site_name" content="Academic" />
 <meta property="og:url" content="https://example.com/post/post-1/" />
-<meta property="og:title" content="Управление версиями. Git. | Academic" />
-<meta property="og:description" content="Здесь Вы можете узнать об управлении версиями." /><meta property="og:image" content="https://example.com/post/post-1/featured.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:title" content="Version control. Git. | Academic" />
+<meta property="og:description" content="Here you can learn about version control." /><meta property="og:image" content="https://example.com/post/post-1/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -355,7 +357,7 @@
     "@type": "WebPage",
     "@id": "https://example.com/post/post-1/"
   },
-  "headline": "Управление версиями. Git.",
+  "headline": "Version control. Git.",
   
   "image": [
     "https://example.com/post/post-1/featured.jpg"
@@ -366,7 +368,7 @@
   
   "author": {
     "@type": "Person",
-    "name": "Сячинова Ксения Ивановна"
+    "name": "Syachinova Kseniya Ivanovna"
   },
   
   "publisher": {
@@ -377,7 +379,7 @@
       "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Здесь Вы можете узнать об управлении версиями."
+  "description": "Here you can learn about version control."
 }
 </script>
 
@@ -399,7 +401,7 @@
 
 
   
-  <title>Управление версиями. Git. | Academic</title>
+  <title>Version control. Git. | Academic</title>
 
   
   
@@ -817,6 +819,22 @@
 
         
         
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link " data-toggle="dropdown"
+             aria-haspopup="true" aria-label="Languages">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>English</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://example.com/ru/post/post-1/">
+              <span>Русский</span>
+            </a>
+            
+          </div>
+        </li>
+        
 
       </ul>
 
@@ -862,7 +880,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Управление версиями. Git.</h1>
+  <h1>Version control. Git.</h1>
 
   
 
@@ -879,7 +897,7 @@
     
 
   <span class="author-highlighted">
-      Сячинова Ксения Ивановна</span>
+      Syachinova Kseniya Ivanovna</span>
   </div>
   
   
@@ -899,7 +917,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    1 min read
+    2 min read
   </span>
   
 
@@ -934,14 +952,14 @@
   <div class="article-container">
 
     <div class="article-style">
-      <h2 id="информация">Информация.</h2>
-<p>Git - это распределенный инструмент контроля версий, который немного сложнее в использовании, чем SVN и другие инструменты контроля версий. Чтобы облегчить понимание, эта статья подробно описывает использование Git с помощью графики, чтобы быстро освоить Git. Основные команды показаны на рисунке.
-Из рисунка выше видно, что Git концептуально разделен на 3 большие области: рабочее пространство, локальный склад и удаленный склад. Существует также область временного хранения, также называемая индексной областью. Давайте посмотрим, что делает каждая область. Ключевым моментом, который отражает Git, является распределенное управление версиями в том, что у него есть локальное хранилище. Фактически обычная работа по управлению версиями выполняется в локальной библиотеке.</p>
+      <h2 id="information">Information</h2>
+<p>Git is a distributed version control tool that is a bit more difficult to use than SVN and other version control tools. To make it easier to understand, this article describes in detail the use of Git using graphics to quickly master Git. The main commands are shown in the figure.
+From the figure above, it can be seen that Git is conceptually divided into 3 large areas: workspace, local warehouse and remote warehouse. There is also a temporary storage area, also called an index area. Let&rsquo;s see what each area does. The key point that Git reflects is distributed version control in that it has local storage. In fact, the usual version control work is done in the local library.</p>
 <ul>
-<li>Рабочая область: На самом деле это наш рабочий каталог в операционной системе. Мы можем просматривать команды управления файлами операционной системы (например, через команду ls в Linux).</li>
-<li>Локальный репозиторий: в рабочей области есть скрытый каталог .git. Этот каталог и его содержимое также являются частью рабочей области, но являются локальным репозиторием Git. Он используется для реализации контроля версий.</li>
-<li>Удаленный склад: Удаленный склад - это склад, хранящийся на удаленном сервере, главным образом для обеспечения многопользовательской совместной работы.</li>
-<li>Область временного хранения: область временного хранения обычно хранится в файле индекса (.git / index) в «каталоге .git», поэтому мы иногда называем область временного хранения в качестве индекса (индекса).</li>
+<li>Workspace: This is actually our working directory in the operating system. We can view the operating system&rsquo;s file management commands (for example, via the ls command in Linux).</li>
+<li>Local repository: There is a hidden directory in the workspace.git. This directory and its contents are also part of the workspace, but are a local Git repository. It is used to implement version control.</li>
+<li>Remote Warehouse: A remote warehouse is a warehouse stored on a remote server, mainly for multi-user collaboration.</li>
+<li>Temporary Storage area: The temporary storage area is usually stored in an index file (.git / index) in the &ldquo;directory .git&rdquo;, so we sometimes refer to the temporary storage area as an index (index).</li>
 </ul>
 
     </div>
@@ -975,7 +993,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost-1%2F&amp;text=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.&#43;Git." target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost-1%2F&amp;text=Version&#43;control.&#43;Git." target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -992,7 +1010,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpost%2Fpost-1%2F&amp;t=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.&#43;Git." target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpost%2Fpost-1%2F&amp;t=Version&#43;control.&#43;Git." target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1011,7 +1029,7 @@
         
       
       <li>
-        <a href="mailto:?subject=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.%20Git.&amp;body=https%3A%2F%2Fexample.com%2Fpost%2Fpost-1%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Version%20control.%20Git.&amp;body=https%3A%2F%2Fexample.com%2Fpost%2Fpost-1%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1028,7 +1046,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost-1%2F&amp;title=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.&#43;Git." target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost-1%2F&amp;title=Version&#43;control.&#43;Git." target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1045,7 +1063,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.&#43;Git.%20https%3A%2F%2Fexample.com%2Fpost%2Fpost-1%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Version&#43;control.&#43;Git.%20https%3A%2F%2Fexample.com%2Fpost%2Fpost-1%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1062,7 +1080,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost-1%2F&amp;title=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.&#43;Git." target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost-1%2F&amp;title=Version&#43;control.&#43;Git." target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1096,13 +1114,13 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu335493783255ab4016690641fa794638_90562_270x270_fill_q75_lanczos_center.jpg" alt="Сячинова Ксения Ивановна"></a>
+      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu335493783255ab4016690641fa794638_90562_270x270_fill_q75_lanczos_center.jpg" alt="Syachinova Kseniya Ivanovna"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://example.com/">Сячинова Ксения Ивановна</a></h5>
-      <h6 class="card-subtitle">Студент РУДН</h6>
-      <p class="card-text">Всем привет! Меня зовут Ксения и мне 20 лет. Всю свою ижзнь прожила в маленьком городе Лебедянь. Но сейчас переехала в Москву и являюсь студентом РУДН. Моя специальность - &lsquo;Математика и механика&rsquo;. Данное направление оказалось интересным для меня, так как я всегда любила математику за её логику.</p>
+      <h5 class="card-title"><a href="https://example.com/">Syachinova Kseniya Ivanovna</a></h5>
+      <h6 class="card-subtitle">Student of RUDN</h6>
+      <p class="card-text">Hello everyone! My name is Ksenia and I am 20 years old. She has lived all her life in the small town of Lebedyan. But now I have moved to Moscow and am a student of RUDN. My specialty is &lsquo;Mathematics and Mechanics&rsquo;. This direction turned out to be interesting for me, as I have always loved mathematics for its logic.</p>
       <ul class="network-icon" aria-hidden="true">
   
     

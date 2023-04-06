@@ -5,7 +5,7 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,134 +13,545 @@
     </image>
     
     <item>
-      <title>Самая крутая бургерная!</title>
-      <link>https://example.com/post/post-5/</link>
-      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post-5/</guid>
-      <description>&lt;h2 id=&#34;мои-впечатления&#34;&gt;Мои впечатления.&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;На этой неделе я посетила бургерную Москвы &amp;ldquo;Burger Heroes. Мне очень понравилось, прекрасная атмосфера, хорошее и быстрое обслуживание. Демократичные цены и очень вкусные блюда. Есть много различных акции и скидок, а так же скидка на бургер для студентов. Если хотите быстро и недорого перекусить - всем советую! Обязательно попробуйте их бургер &amp;ldquo;Чёрная мамба&amp;rdquo;. Это самое прекрасное, что может случится с вами в жини!&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;P.s. При регистрации на их сайте вы получаете 300 бонусов, что равно 300 рублей. Пользуйтесь!&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+      <title>LadyBug?! yes!!!</title>
+      <link>https://example.com/post/post-7/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-7/</guid>
+      <description>&lt;h2 id=&#34;something-new&#34;&gt;Something new&lt;/h2&gt;
+&lt;p&gt;Lady Bug and Super Cat (French: Miraculous, les aventures de Ladybug et Chat Noir; also known as Miraculous Ladybug or Miraculous) is a French animated series produced by Zagtoon and Method Animation. The animated series tells about two Parisian teenagers, Marinette Dupin-Chen and Adrian Agresta, who turn into superheroes Lady Bug and Super Cat to protect the city from supervillains created by the Hawk Moth. The creator of the animated series is Thomas Astryuk.&lt;/p&gt;
+&lt;p&gt;Prior to its debut in France on October 19 , 2015 on TF1 , the series was first shown in South Korea on September 1 , 2015 on EBS1&lt;/p&gt;
+&lt;p&gt;In the USA, the premiere of the animated series took place on December 6, 2015 on the Nickelodeon channel, but later this channel refused to broadcast the animated series, so Netflix received the rights to broadcast season 1-3. In Russia, the premiere took place on December 19, 2015 on the Disney Channel. In the UK and Ireland, the show premiered on January 30, 2016, also on the Disney Channel. In addition to the above, the animated series is shown in Germany, Spain, Portugal, Italy, Turkey, Brazil, Japan and more than a hundred countries around the world (150 in total). On November 20, 2015, producer Jeremy Zag announced that the second and third seasons are in development&lt;/p&gt;
+&lt;p&gt;On December 11, 2016, the premiere of a special Christmas episode, which is a musical called &amp;ldquo;The Worst Christmas&amp;rdquo; (French: &amp;ldquo;Pire Noël&amp;rdquo;, in Russian dubbing — &amp;ldquo;Santa with claws&amp;rdquo;). On October 26, 2017, the second season was released in France. The first episode of the second season in Russia was shown on January 29, 2018 on the Russian Disney channel, the screening of a number of subsequent episodes on the channel took place from February 12 to March 5, 2018, also on March 26, another series was shown unscheduled. The premiere of the last episode of the second season of &amp;ldquo;Mayura&amp;rdquo; in Russia took place on January 21, 2019.&lt;/p&gt;
+&lt;p&gt;On November 20, 2015, producer Jeremy Zag announced that the second and third seasons are in the process. On November 24, 2018, it was announced that the third season will be released on December 1, 2018 on the Spanish Disney channel. On the same day, a teaser of the first episode titled &amp;ldquo;Chameleon&amp;rdquo; was published.&lt;/p&gt;
+&lt;p&gt;In France, the premiere took place on April 14, 2019. On January 22, 2018, Zag posted on Instagram that the team is working on seasons 4 and 5. On September 7, 2019, Jeremy Zag confirmed on his Instagram that seasons 4 and 5 are already in development, and the air date for season 4 will be in the fall of 2020. On October 13, 2019, Thomas Astruc announced that the scripts for season 4 have already been completed&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Самая крутая бургерная!</title>
-      <link>https://example.com/post/post-6/</link>
-      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post-6/</guid>
-      <description>&lt;h2 id=&#34;мои-впечатления&#34;&gt;Мои впечатления.&lt;/h2&gt;
+      <title>Scientific programming languages.</title>
+      <link>https://example.com/post/post-8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-8/</guid>
+      <description>&lt;h2 id=&#34;theory&#34;&gt;Theory.&lt;/h2&gt;
+&lt;p&gt;A programming language is a formalized language designed to describe programs and algorithms for solving problems on a computer. Programming languages are artificial. In them, syntax and semantics are strictly defined. Therefore, they do not allow free interpretation of expression, which is typical for natural language. Programming languages are divided into two main categories high-level languages and low-level languages :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;На этой неделе я посетила бургерную Москвы &amp;ldquo;Burger Heroes. Мне очень понравилось, прекрасная атмосфера, хорошее и быстрое обслуживание. Демократичные цены и очень вкусные блюда. Есть много различных акции и скидок, а так же скидка на бургер для студентов. Если хотите быстро и недорого перекусить - всем советую! Обязательно попробуйте их бургер &amp;ldquo;Чёрная мамба&amp;rdquo;. Это самое прекрасное, что может случится с вами в жини!&lt;/p&gt;
+&lt;p&gt;High-level language [high-level language] is a programming language, the means of which provide a description of the task in a visual, easily perceived form, convenient for the programmer. It does not depend on the internal machine codes of any type of computer, so programs written in high-level languages require translation into machine codes by translator or interpreter programs. High-level languages include Fortran, PL/1, Basic, Pascal, C, Ada, etc.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;P.s. При регистрации на их сайте вы получаете 300 бонусов, что равно 300 рублей. Пользуйтесь!&lt;/p&gt;
+&lt;p&gt;A low-level language, [low-level language] is a programming language designed for a certain type of computer and reflecting its internal machine code (see also “machine language“, “machine-oriented language“ and “assembly language“ below).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>День готовки!</title>
-      <link>https://example.com/post/post-3/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post-3/</guid>
-      <description>&lt;h2 id=&#34;рецепт&#34;&gt;Рецепт&lt;/h2&gt;
-&lt;p&gt;Каждый народ имеет свои богатые древние традиции. Они присутствуют повсюду: в одежде, быту, языке, песнях, еде и т. д.&lt;/p&gt;
-&lt;p&gt;Есть много рецептов приготовления блинов, неизменными ингредиентами остаются молоко, сахар, соль, яйца, масло. Мука для их приготовления может использоваться разная. Такой же разнообразной может быть и начинка. Здесь уже все зависит от изобретательности хозяйки. Пожалуй, никто бы не отказался полакомиться блинами с медом, яблоками, мягким сыром, сгущенным молоком, грибами, мясом и т. д.&lt;/p&gt;
-&lt;p&gt;При готовке блинов хозяйки нередко сталкиваются с проблемами: как испечь тонкие и прочные блинчики, или же, наоборот, пышные и рыхлые. Раскроем вам несколько секретов.&lt;/p&gt;
+&lt;p&gt;There are also the following types of programming languages:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Для приготовления блинов лучше всего подходит пшеничная мука. Но если вы предпочитаете рыхлые блинчики, тогда можно использовать овсяную или гречневую муку.&lt;/li&gt;
-&lt;li&gt;Чтобы избежать появления комочков, муку добавляйте небольшими порциями, постоянно помешивая.&lt;/li&gt;
-&lt;li&gt;Для того, чтобы блинчики получились очень нежными, муку следует просеять 2–3 раза.&lt;/li&gt;
-&lt;li&gt;Вода — основа для тонких и прочных блинов, но блинчики, приготовленные на молоке, намного вкуснее. Смешайте молоко и воду — получатся прочные и вкусные.&lt;/li&gt;
-&lt;li&gt;Если испечь блины на кефире, то они получатся пышные. Тот же эффект вы получите, если сделаете блинчики из дрожжевого теста.&lt;/li&gt;
-&lt;li&gt;Желательно иметь отдельную сковороду для выпечки блинов.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Algorithmic language is a set of symbols, conventions and rules used to unambiguously describe algorithms and is usually part of a programming language ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;nonalgorithmic language [nonalgorithmic language] is a programming language whose texts do not contain instructions on the order of operations and serve only as source material for the synthesis of the algorithm for solving the problem;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Formal language [formal language] is a programming language built according to the rules of some logical calculus or formal grammar [formal grammar ], which is a system of rules for constructing finite sign sequences in a given alphabet, the set of which forms a formal language;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The source language is the programming language in which the program is written, as opposed to the machine language in which the programs are executed by the computer. The source languages are classified into high - level and low - level languages .&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Machine ( absolute ) language, computer language [computer (machine) language] is a programming language designed to represent programs in a form that allows them to be executed by technical means;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Machine-dependent ( machine-oriented) language, machine-dependent programming language [computer-sensitive (computer-oriented) language] is a programming language that takes into account the structure and characteristics of a computer of a certain type or a specific computer;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Machine-independent language [machine-independent language] is a programming language, the structure and means of which are not associated with any particular computer and allow you to execute programs compiled on it on any computer equipped with translators (see below) from this language;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Symbolic language, symbolic coding language [symbolic language] - A programming language focused on specific computers and based on encoding machine operations using a specific set of symbols;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hybrid ( combined ) The [hibrid language] language is a programming language that also uses the means of another language;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Graphic language [graphic language ] is a language designed for writing machine graphics programs and using them.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Base language [base language] –&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A machine language common to the computer family;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A programming language in a DBMS with an autonomous language .&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Common language - A machine language common to a group of computers and external devices used by them;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reference language [reference language ] - The language that is the basis for all its specific versions, which are variants of the adaptation of the reference language to certain conditions of use and purpose;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Assembly language, assembler [assembler language ] is a universal programming language belonging to the category of low-level languages, the structure of which is determined by command formats, machine language data and computer architecture. It is used by programmers in cases when it is impossible to use a high-level language or efficient programs in machine codes are required.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Declarative ( non - procedural ) the [declarative (nonprocedural) language] is a programming language that allows you to set relationships and relationships between objects and quantities, but does not define the sequence of actions (for example, the Prolog languages, QBE);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Imperative ( procedural ) the language [imperative language] is a programming language that allows you to explicitly (by specifying executed operators) determine actions and the order (sequence) of their execution;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Functional programming language, functional language [functional language] is a declarative programming language based on the concept of functions that specify a dependency, but do not determine the order of calculations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Specialized language [special language] - A programming language focused on solving a certain range of tasks;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Page Description Language [PDL - Page Description Language] is a specialized language designed for printing devices. Provides for the possibility of using images in a format independent of the parameters of the display device. The most well-known language of this type is PostScript.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Autonomous language [freestanding language] - A specialized high-level language, in closed DBMS (“DBMS with an autonomous language&amp;quot;);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The design language of interactive technologies - In the DBMS - a language designed to describe the technological processes of data processing, taking into account the separation of the nature of operations by their types, as well as providing a dialogue with the system administrator;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data manipulation Language, YAMD [DML - Data Manipulation Language] - In DBMS - a language designed to access the database and perform search, read and modify its records;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;List processing language [list language] is a specialized language designed to describe data processing processes presented in the form of lists of objects ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data Description Language [DDL - Data Description Language ] - A language designed to describe the “conceptual schema&amp;quot; of a database ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data Storage Description Language [DSDL - Data Storage Description Language ] - A language designed to describe a physical structure (schema) databases ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Page description language [page description language] A system for encoding documents that allows you to accurately describe its appearance after preparing for printing or display. An example of using such a language is PDF (Portable Document Format), developed by Adobe for storing and presenting images of pages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Knowledge Representation Language [KRL - Knowledge Representation Language] - Declarative or declarative-procedural language designed to represent knowledge in computer memory (for example, Lisp and Prolog languages);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Publication language [publication language ] - The language used for publishing algorithms and programs;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Specification language [specification language] - Declarative language for specifying program specifications ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Problem-oriented language [problem-oriented language] - A programming language designed to solve a certain class of problems (problems);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Procedural (procedural-oriented) the [procedure-orinted language] is a problem-oriented language that facilitates the expression of a procedure as an exact algorithm;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Real-time language [real-time language] - A language used for programming tasks in which the reaction time of a computer to signals requiring immediate action from it is critical (for example, the language of Hell);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Batch control language [batch control language ] - A set of commands , directives , qualifiers and rules for their use to control batch processing of data;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Job management language [job-control language ] - The language in which the sequence of commands controlling the execution of the task is recorded. Unlike conventional programming languages, in which the objects of description are elements related to the solution of a single task, in task management languages, the transformed objects are entire programs and output streams of data processed by these programs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Network-wide command language [CNCL - Common Network - Command language] is a standard language for interactive data retrieval within a computer network, designed to unify the work of users with heterogeneous databases managed by various DBMS ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;System language [system language ] - The language of communication between the computer operator and the computer system, which is a set of operator commands and system messages;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;General-purpose language, universal language [universal programming language] - A programming language focused on solving problems from almost any field and combining on a single methodological basis the most essential properties and tools of modern machine- and problem-oriented programming languages (for example, assembly language, PL/1, etc.);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;User-oriented language [user-oriented language ] - A weakly formalized programming language close to a natural language ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Menu language [menu language ] - The language of the user&amp;rsquo;s dialogue with the system, based on the use of the menu.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Вот несколько рецептов приготовления блинов на молоке. Они непременно вам пригодятся, ведь эти рецепты блинов проверены уже не одной хозяйкой, а ингредиенты указаны в точных пропорциях, что гарантирует прекрасный, нежный вкус.&lt;/p&gt;
-&lt;p&gt;Ингредиенты&lt;/p&gt;
+&lt;p&gt;Development and naming of programming languages&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Молоко 	1 л&lt;/li&gt;
-&lt;li&gt;Яйца 	4 шт.&lt;/li&gt;
-&lt;li&gt;Мука 	500 г&lt;/li&gt;
-&lt;li&gt;Растительное масло 	2 ст. л.&lt;/li&gt;
-&lt;li&gt;Сахар 	1,5 ст. л.&lt;/li&gt;
-&lt;li&gt;Соль 	0,5 ч. л.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ada [Ada] is a high-level programming language focused on application in real-time systems and designed to automate the tasks of controlling processes and/or devices, for example, in on-board (ship, aviation, etc.) computers. Developed on the initiative of the US Department of Defense in the 1980s. Named after the English mathematician Ada Augusta Byron (Lovelace), who lived in 1815-1851.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Algol [ALGOL - ALGOrithmic Language] is a high-level programming language focused on the description of algorithms for solving computational problems. It was created in 1958 by specialists of Western European countries for scientific research. The Algol-60 version of this language was adopted by an international Conference in Paris (1960) and was widely used on 2nd generation computers. The Algol-68 version, developed by a group of specialists of the International Federation for Information Processing (IFIP) in 1968, received the status of an international universal programming language focused on solving not only computational, but also information problems. Although Algol is practically not used at present, it served as the basis or had a significant impact on the development of more modern languages, for example, Ada, Pascal, etc.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Процесс приготовления&lt;/p&gt;
+&lt;p&gt;BASIC [BASIC - Beginner&amp;rsquo;s All-purpose Symbolic Instruction Code] is a high-level programming language developed in 1963 - 1964 at Dartmouth College by Thomas Kurt and John Kemeny. It was originally intended for teaching programming. It is characterized by simplicity, easily assimilated by novice programmers due to the presence of simplified Fortran language constructions and built-in mathematical functions, algorithms and operators. There are many different versions of Basic that are not fully compatible with each other. Some Basic implementations include data processing tools and datasets. Most versions of Basic use an interpreter that converts its components into machine code and allows you to run programs without intermediate translation. Some more advanced versions of Basic allow the use of translators for this purpose. Microsoft&amp;rsquo;s Quick Basic, Borland&amp;rsquo;s Turbo Basic, and Power Basic (an improved version of Turbo Basic distributed by Spectra Publishing) are widely used on IBM PCs. At the beginning of 1999 Microsoft has released a version of Visual Basic 6.0 (VB 6.0), designed to create multicomponent software applications for enterprise-level systems. For more information about it, see [429].&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Cobol [COBOL - COmmon Buisiness-Oriented Language] is a high-level programming language developed in the late 1950s by the KADASIL Association to solve commercial and economic problems. It is distinguished by advanced means of working with files. Since the commands of programs written in this language actively use the usual English vocabulary and syntax, Cobol is considered as one of the simplest programming languages. Currently it is used to solve economic, informational and other tasks.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lisp [LISP - LISt Processing] is an algorithmic language developed in 1960 by J. McCarthy and designed to manipulate lists of data elements. It is used mainly in university laboratories in the USA to solve problems related to artificial intelligence. In Europe , they prefer to use a Prologue for work on artificial intelligence .&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LOGO [LOGO from Greek logos - word ] is a high-level programming language developed at the Massachusetts Institute of Technology in approximately 1970 for the purpose of teaching mathematical concepts. It is also used in schools and by PC users when writing programs for creating drawings on a monitor screen and controlling a pen graph builder .&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pascal [PASCAL is an acronym from French - Program Applicque a la Selection et la Compilation Automatique de la Litterature] is a high-level procedural-oriented programming language developed in the late 1960s. By Niklaus Wirth, originally for teaching programming at universities. It is named after the 17th-century French mathematician Blaise Pascal. In its initial version, Pascal had rather limited capabilities, since it was intended for educational purposes, but its subsequent improvements made it a good universal language, widely used, including for writing large and complex programs. There are a number of versions of the language (for example, ETH Pascal, USD Pascal, Turbo Pascal) and programming systems in this language for different types of computers. For IBM PC, the most popular is the Turbo Pascal system from Borland (USA). For more information about the Pskov languages and their development, see [653].&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prolog [PROLOG - PROgramming in LOGic] is a high-level declarative programming language (see declarative programming above) designed for the development of artificial intelligence systems and programs. It belongs to the category of fifth-generation languages. It was developed in 1971 at the University of Marseille (France), is one of the widely used and constantly developing languages. Its latest version is Prolog 6.0. For more details, see [561].&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;C [C ] is a multi-purpose high-level programming language developed by Denis Ritchie in the early 1970s based on the BCPL language. It is used on minicomputers and PCs. It is the basic language of the Unix operating system, but it is also used outside of this system to write high-speed and efficient software products, including operating systems. There are a number of popular versions of the C language for IBM PC, including Turbo C (by Borland), Microsoft C and Quick C (by Microsoft), as well as Zortech C (by Symantec). Many of these versions also provide work with C and C++ (see below).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;C++ [C++] is a high-level programming language created by Bjarne Stroustrap based on the C language. It is an extended version of it that implements the principles of object-oriented programming. It is used to create complex programs. For IBM PC, the most popular is the Turbo C++ system from Borland (USA).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;C# (C Sharp) – “C Sharp”: an object-oriented programming language, the development of which was announced by Microsoft in 2000. By its nature, it resembles the C++ and Java languages and is intended for software developers using the C and C++ languages so that they can create Internet applications more efficiently. It is indicated that C # will be closely integrated with the XML language. For more information, see – [600], as well as on the Microsoft Web site (&lt;a href=&#34;http://msdn.microsoft.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://msdn.microsoft.com&lt;/a&gt; ).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fortran [FORTRAN - FORmula TRANslation] is a high-level programming language developed by IBM in 1956 to describe algorithms for solving computational problems. It belongs to the category of procedural-oriented languages. The most common versions of this language are Fortran IV, Fortran 77 and Fortran 90. It is used on all classes of computers. Its latest version is also used on computers with parallel architecture .&lt;/p&gt;
+&lt;p&gt;AppleScript is a machine-dependent (focused on working with Apple Macintosh-type PCs) programming language close to natural English, designed to automate repetitive tasks mainly related to computer graphics processes (including processing scan results, image input, color separation, cataloging, transferring printed documents to the World Wide Web, etc.). It was planned to develop a version of this language for PowerPC. For more information about it, see [198].&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Clipper is a high-level language and programming system designed for the development of programs for personal computers, mainly systems for managing large amounts of data (see “DBMS&amp;quot;). The owner and developer of the Clipper language and system is the company Nantucket (USA). The beginning of work on their creation is associated with the development of a compiler for dBase (see below) and dates back to 1984 (the year of the founding of the company Nantucket by Barry Rebell and Brian Russell). The first Clipper software products were ClipperWinter’84 (May 1985), ClipperWinter’85 (January 1986), McMax (Macintosh PC version - September 1986) and ClipperSummer’87 (December 1987). In the summer of 1990, a version of the Clipper 5.0 language was released, which became widespread in Russia. It implements the concept of an open architecture and is a language, compiler and software development system for PCs, including a set of commands and functions, a preprocessor, a linker, a set of utilities (including a debugger and embedded documentation) [173].&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;dBASE -&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;В большой миске взбить яйца и сахар.&lt;/li&gt;
-&lt;li&gt;Часть молока подогреть, посолить и тщательно перемешать со взбитыми яйцами и сахаром.&lt;/li&gt;
-&lt;li&gt;В полученную смесь постепенно добавлять муку, постоянно перемешивая, чтобы не было комочков.&lt;/li&gt;
-&lt;li&gt;Добавить немного соды, соль и масло. Перемешать.&lt;/li&gt;
-&lt;li&gt;Добавить остальное молоко и взбить. Тесто должно быть в меру жидким.&lt;/li&gt;
-&lt;li&gt;Разогреть сковороду.&lt;/li&gt;
-&lt;li&gt;Обжарить блин с обеих сторон до золотистого цвета.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A high-level programming language designed to create packages of application programs related to the manipulation of large amounts of data (Xbase). The first version of the dBase II language was released in the early 1980s, in August 1994, the version of dBase 5.0 for Windows was released (for more details, see [79]);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A family of PC programs designed to manipulate large amounts of data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;FoxPro is an object-oriented language designed to create application software packages, including for modern operating systems, for example, the version of this language FoxPro for Windows. For one of the latest versions of this language, Microsoft&amp;rsquo;s Visual FoxPro 3.0, see [84].&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SGML (Standardized General Markup Language) – “Standardized Generalized Markup Language&amp;quot;. The development of the language was caused by the need to create tools for describing documents and rules for their construction. To define the structure of a document, special labels are used – “tags” that separate document elements and Document Type Definition files (DTD) from each other, performing the functions of a “grammar” and defining the structure and content of each element in the document. Adopted by ISO as a standard in the 80s. The complexity of this language prevented it from forming the basis of the first specification for Web – HTML, which became a derivative of SGML [336].&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;html, html (HyperText Markup Language) - “Hypertext Markup Language” was developed at the CERN Research Center in 1992. It is derived from SGML (see below). html sets the format of hypermedia documents in the WWW network. HTML documents are ASCII files that can be viewed and edited in any text editor. The difference from a regular text file is the presence in HTML documents of special commands - tags that specify the formatting rules of the document [114, 141, 329, 336]. The full html description can be obtained at the network address: &amp;lt;http://www . access.digex.net/^werbach/barebone.html&amp;gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Three comrades.</title>
+      <link>https://example.com/post/post-10/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-10/</guid>
+      <description>&lt;h2 id=&#34;great-book-to-read&#34;&gt;Great book to read!&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Three Comrades&amp;rdquo; (German: Drei Kameraden) is a novel by Erich Maria Remarque, on which he began work in 1932. The novel was completed and published in the Danish publishing house Gyldendal under the title &amp;ldquo;Kammerater&amp;rdquo; in 1936. In 1958 it was translated into Russian.&lt;/p&gt;
+&lt;h1 id=&#34;plot&#34;&gt;Plot&lt;/h1&gt;
+&lt;p&gt;The action takes place in Germany from March 1928 to March 1929. Three comrades — Robert Lockamp (Robbie), Otto Koester and Gottfried Lenz maintain a small car repair shop. The main character, car mechanic Robbie, met a charming girl Patricia Holman. They — people of different destinies and from different walks of life — fell in love with each other. The novel shows the development of their love against the background of the crisis of Weimar Germany.&lt;/p&gt;
+&lt;h1 id=&#34;main-characters&#34;&gt;Main characters&lt;/h1&gt;
+&lt;p&gt;The main characters&lt;/p&gt;
+&lt;p&gt;Robert Lockamp (Robbie) is the main character of the novel, he is exactly 30 years old, the action of the novel begins on his anniversary birthday (1928). The beloved of Patricia Holman (Pat). A friend of Gottfried Lenz and Otto Koester. Participant of the First World War.&lt;/p&gt;
+&lt;p&gt;Otto Koester is one of the main characters. Also about 30 years old. During the war, he was a pilot, in the novel he was the owner of an auto repair shop in which the main characters worked. Otto is an amateur racing driver, participated in the races on the car &amp;ldquo;Karl&amp;rdquo;, on which he won several times. He is fond of boxing.&lt;/p&gt;
+&lt;p&gt;Gottfried Lenz is one of the main characters of the novel. The same age as Otto and Robert, their comrade at the front. He served in the army, traveled a lot around the world, as evidenced by his apartment with photos of various places, a suitcase covered with all kinds of postcards, stamps and other things. He worked in an auto repair shop with Kester and Locamp. A very light, positive person, the &amp;ldquo;soul&amp;rdquo; of the company. Outwardly, he stood out in the crowd with a straw-colored shock of hair. Friends called him the last, &amp;ldquo;paper&amp;rdquo; romantic.&lt;/p&gt;
+&lt;p&gt;Patricia Holman (Pat) is the main character&amp;rsquo;s lover. The story of this love forms the basis of the plot of the work.&lt;/p&gt;
+&lt;h1 id=&#34;my-review&#34;&gt;My review&lt;/h1&gt;
+&lt;p&gt;The work of Three Comrades is one of the most beloved novels of all readers of Remark.The book catches with its simplicity in writing and deep meaning.&lt;/p&gt;
+&lt;p&gt;The novel takes place in post-war Germany.Three best friends:Lenz, Kester, Locamp.They went through the whole war together and managed to preserve their former friendship.In the work, you can single out the main character - this is Robbie Lockamp, in fact, he tells the whole story.By the way, the main love line is connected with him.Careful, spoiler alert! The book very often contains passages where the main character reasons and analyzes his decisions and actions, from a psychological point of view, such a format of writing attracts the reader&amp;rsquo;s attention and makes you think about similar questions that the Locamp will ask.&lt;/p&gt;
+&lt;p&gt;The beautiful half, who will have to read this masterpiece, will undoubtedly like the love line, which is almost the main one in the plot.With the most vivid epithets and verbal phrases, Remark describes the feelings that lovers experience.&lt;/p&gt;
+&lt;p&gt;If you are wondering whether it is worth reading this work or not, in my opinion I will definitely say that everyone should read IT, especially avid lovers of Remark, you will fall in love, as I once did&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Top 10 interesting facts about a person</title>
+      <link>https://example.com/post/post-9/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-9/</guid>
+      <description>&lt;h2 id=&#34;10-interesting-facts-about-a-person-and-his-body&#34;&gt;10 interesting facts about a person and his body&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;In one hour, a person loses about 600,000 old skin cells.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A person sneezes at a speed of up to 160 km/h.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There are about 72 km of nerves in the human body.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The nose is able to recognize and remember 50,000 different smells.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gastric juice is able to dissolve zinc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Human bones are 4 times stronger than concrete.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The heart is about the size of a fist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The tongue is the only muscle in the human body that is attached only on one side.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If it were possible to apply the force of all muscles at once to lift gravity, then they would be able to lift a load weighing 25 tons.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The average man&amp;rsquo;s skin weighs 5 kg, and the average woman&amp;rsquo;s skin weighs 3 kg.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
     
     <item>
-      <title>Язык разметки Markdown.</title>
+      <title>Design of the report</title>
+      <link>https://example.com/post/post-6/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-6/</guid>
+      <description>&lt;h2 id=&#34;information&#34;&gt;Information&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Scope of application
+These recommendations establish requirements for the structure and rules
+for the preparation of reports on laboratory work performed by students of Perm
+State Technical University of full-time and part-time education in
+the laboratories of the Department of Automation of Technological Processes and Production.&lt;/li&gt;
+&lt;li&gt;Regulatory references
+These recommendations use references to the following standards:
+GOST 7.32 – 2001 Report on research work. Structure and rules
+of registration.
+GOST R 7.05 – 2008 Bibliographic reference. General requirements and rules
+compilation.&lt;/li&gt;
+&lt;li&gt;General provisions
+3.1. Laboratory work report – a technical document that contains
+systematized data on laboratory work, describes the theory used in
+laboratory work, the progress of laboratory work, calculations and results obtained during
+laboratory work.
+3.2. The report is compiled based on the results of the student&amp;rsquo;s laboratory work.
+3.3. The student is responsible for the accuracy of the data presented in
+the laboratory report.
+3.4. The report
+on
+laboratory
+work
+is subject
+to mandatory
+verification
+carried out by the teacher of the Department of ATP.&lt;/li&gt;
+&lt;li&gt;Structural elements of the report
+The structural elements of the laboratory work report are:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;title page;&lt;/li&gt;
+&lt;li&gt;the purpose of the work;&lt;/li&gt;
+&lt;li&gt;theoretical information;&lt;/li&gt;
+&lt;li&gt;calculation and graphic part;&lt;/li&gt;
+&lt;li&gt;conclusions on the work;&lt;/li&gt;
+&lt;li&gt;list of used literature.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Requirements for the content of structural elements of the report
+5.1. Title page
+5.1.1. The cover page is the first page of the report on laboratory work and
+serves as a source of information necessary for searching and processing the document.
+5.1.2. The title page of the laboratory report must contain
+the following data:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;name of the parent organization;&lt;/li&gt;
+&lt;li&gt;name of the type of educational institution;&lt;/li&gt;
+&lt;li&gt;name of the educational institution;&lt;/li&gt;
+&lt;li&gt;department conducting laboratory work;&lt;/li&gt;
+&lt;li&gt;laboratory work number;&lt;/li&gt;
+&lt;li&gt;name of the laboratory work;&lt;/li&gt;
+&lt;li&gt;data about the group and the student who performed the laboratory work;&lt;/li&gt;
+&lt;li&gt;data about the teacher checking the student&amp;rsquo;s report on laboratory work;&lt;/li&gt;
+&lt;li&gt;year and city
+Samples of the title pages of laboratory reports are given in
+Appendices A and B.
+5.1.3. When the teacher checks student reports on laboratory work
+on the title page, the teacher writes down comments on the report. Therefore, if
+it is necessary to re-issue the report or make corrections to the content
+of the report, the title page remains the original (not replaced with a new one) so
+that the teacher sees all the previous comments during the secondary review of the report.
+5.2. Purpose of the work
+5.2.1. The laboratory work report must specify the purpose(s)
+of the laboratory work. It is allowed to specify the tasks into which the goal was divided.
+5.3. Theoretical information
+5.3.1. The report on laboratory work must specify
+theoretical information required to perform laboratory work.
+5.3.2. At the end of the theoretical information, a description of the laboratory
+installation is placed.
+5.4. Calculation and graphic part
+5.4.1. At the beginning of the calculation and graphic part, the initial data on
+laboratory work are indicated.
+5.4.2. All data, calculations and graphical constructions necessary to
+achieve the goal(s) of laboratory work are provided.
+5.5 Conclusions on the work
+5.5.1. The report on laboratory work must contain conclusions on
+laboratory work.
+5.5.2. Conclusions on laboratory work should reflect the fact that the goal has been achieved
+laboratory work.
+5.6. List of used literature
+The list of used literature is drawn up in accordance with GOST R 7.05 – 2008.
+Appendix B provides an example of the design of a bibliographic list.
+Note – the content of the reports given in paragraphs 5.3 and 5.4 is
+approximate and is determined specifically by the teacher, depending on the specifics
+of the discipline and laboratory work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Rules for the design of the report
+6.1. General requirements
+6.1.1. In accordance with GOST 7.32 – 2001, the report on laboratory work is made
+out in any printed way on one side of a sheet of A4 white paper.
+at the discretion of the teacher, a handwritten version of the text is allowed.
+6.1.2. In the report on laboratory work, an interval of 1.0 and 1.5 is allowed, a size
+of at least 12, alignment in width, indentation of the red line 1.0.
+6.1.3. The font color must be black.
+6.2. Numbering of report pages
+6.2.1. The pages of the report should be numbered in Arabic numerals, observing the end-to-end
+numbering throughout the text of the report. The page number is placed at the bottom of each sheet
+in the center.
+6.2.2. The title page is included in the general numbering of the report pages.
+The page number is not put down on the title page.
+6.3. Numbering of sections and subsections of the report
+6.3.1. Sections should have sequential numbers within the entire report,
+indicated by Arabic numerals.
+6.3.2. Sections can be divided into subsections. The numbering of subsections
+is made up of the number of the section and subsection, indicated by a dot, for example,
+&amp;ldquo;1.1.&amp;rdquo;. At the end of the names of sections and subsections, a dot is not placed.
+6.4. Illustrations
+6.4.1. Illustrations are signed at the bottom with Arabic numerals separated by a space after
+the word &amp;ldquo;Figure&amp;rdquo; and have either through numbering or numbering in accordance with
+the sections of the report.
+6.4.2. All illustrations (figures) must have a name that is indicated
+after the number of the illustration separated by a dash, for example, &amp;ldquo;Figure 1 – Block diagram&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;6.4.3. The captions of all illustrations are aligned in the center of the line.
+6.5. Charts
+6.5.1. The graphs should be clear. When making charts , it is necessary
+specify the designations of the coordinate axes and the graphs themselves.
+6.5.2. If the graphs reflect a comparison of two experiments, it is recommended that they
+be performed in the same coordinate system.
+6.6. Tables
+6.5.1. In the report on laboratory work, end-to-end numbering of tables is recommended.
+Numbering of tables within the report section is allowed. In this case
+, the table number consists of the section number and the ordinal number of the table, separated by a dot.
+6.5.2. Tables are numbered with Arabic numerals.
+6.5.3. Tables are numbered with the word &amp;ldquo;Table&amp;rdquo; without the &amp;ldquo;No.&amp;rdquo; sign,
+for example, &amp;ldquo;Table 1&amp;rdquo;.
+6.5.4. Each table should have a name that should be placed above
+the table on the left without paragraph indentation in one line with its number separated by a dash.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The coolest burger joint!</title>
+      <link>https://example.com/post/post-5/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-5/</guid>
+      <description>&lt;h2 id=&#34;my-impressions&#34;&gt;My impressions.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This week I visited the burger shop in Moscow &amp;ldquo;Burger Heroes. I really liked it, great atmosphere, good and fast service. Affordable prices and very tasty dishes. There are many different promotions and discounts, as well as a burger discount for students. If you want a quick and inexpensive snack, I advise everyone! Be sure to try their Black Mamba burger. This is the most beautiful thing that can happen to you in life!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;P.s. When you register on their website, you get 300 bonuses, which is 300 rubles. Use it!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cooking day!</title>
+      <link>https://example.com/post/post-3/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-3/</guid>
+      <description>&lt;h2 id=&#34;recipe&#34;&gt;Recipe&lt;/h2&gt;
+&lt;p&gt;Each nation has its own rich ancient traditions. They are present everywhere: in clothes, everyday life, language, songs, food, etc.&lt;/p&gt;
+&lt;p&gt;There are many recipes for making pancakes, milk, sugar, salt, eggs, butter remain unchanged ingredients. Flour for their preparation can be used different. The filling can be just as diverse. Here everything depends on the ingenuity of the hostess. Perhaps no one would refuse to eat pancakes with honey, apples, soft cheese, condensed milk, mushrooms, meat, etc.&lt;/p&gt;
+&lt;p&gt;When cooking pancakes, housewives often face problems: how to bake thin and durable pancakes, or, conversely, lush and loose. We&amp;rsquo;ll tell you a few secrets.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wheat flour is best suited for making pancakes. But if you prefer loose pancakes, then you can use oatmeal or buckwheat flour.&lt;/li&gt;
+&lt;li&gt;To avoid the appearance of lumps, add flour in small portions, stirring constantly.&lt;/li&gt;
+&lt;li&gt;In order for the pancakes to turn out very tender, the flour should be sifted 2-3 times.&lt;/li&gt;
+&lt;li&gt;Water is the basis for thin and durable pancakes, but pancakes made with milk are much tastier. Mix milk and water — it will turn out strong and delicious.&lt;/li&gt;
+&lt;li&gt;If you bake pancakes on kefir, they will turn out lush. You will get the same effect if you make pancakes from yeast dough.&lt;/li&gt;
+&lt;li&gt;It is advisable to have a separate frying pan for baking pancakes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here are some recipes for making pancakes with milk. They will certainly be useful to you, because these pancake recipes have been tested by more than one hostess, and the ingredients are specified in exact proportions, which guarantees a wonderful, delicate taste.&lt;/p&gt;
+&lt;p&gt;Ingredients&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Milk 1 l&lt;/li&gt;
+&lt;li&gt;Eggs 4 pcs.&lt;/li&gt;
+&lt;li&gt;Flour 500 g&lt;/li&gt;
+&lt;li&gt;Vegetable oil 2 tbsp. l&lt;/li&gt;
+&lt;li&gt;Sugar 1.5 tbsp. l&lt;/li&gt;
+&lt;li&gt;Salt 0.5 tsp .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The cooking process&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;In a large bowl, beat the eggs and sugar.&lt;/li&gt;
+&lt;li&gt;Heat part of the milk, add salt and mix thoroughly with beaten eggs and sugar.&lt;/li&gt;
+&lt;li&gt;Gradually add flour to the resulting mixture, stirring constantly so that there are no lumps.&lt;/li&gt;
+&lt;li&gt;Add a little soda, salt and oil. Mix it up.&lt;/li&gt;
+&lt;li&gt;Add the rest of the milk and beat. The dough should be moderately liquid.&lt;/li&gt;
+&lt;li&gt;Preheat the frying pan.&lt;/li&gt;
+&lt;li&gt;Fry the pancake on both sides until golden brown.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown markup language.</title>
       <link>https://example.com/post/post-4/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/post-4/</guid>
       <description>&lt;h2 id=&#34;полезная-информация&#34;&gt;Полезная информация.&lt;/h2&gt;
+&lt;h2 id=&#34;useful-information&#34;&gt;Useful information.&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Совсем недавно я познакомилась с языком размтки Markdown. Хочу поделиться с вами информацией, которая может быть вам полезна.
-Markdown — это простой язык разметки, используемый для создания форматированного текста (например, HTML) с помощью текстового редактора. Он позволяет добавлять к тексту базовое форматирование, используя символы, известные и доступные на всех клавиатурах. Размер шрифта, цвет и другие расширенные параметры недоступны в Markdown.&lt;/li&gt;
+&lt;li&gt;I recently got acquainted with the Markdown markup language. I want to share with you information that may be useful to you.
+Markdown is a simple markup language used to create formatted text (such as HTML) using a text editor. It allows you to add basic formatting to the text using characters known and available on all keyboards. Font size, color, and other advanced options are not available in Markdown.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;зачем-он-нужен&#34;&gt;Зачем он нужен?&lt;/h2&gt;
+&lt;h2 id=&#34;why-is-it-needed&#34;&gt;Why is it needed?&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Для добавления разметки туда, где невозможна реальная разметка. Например, в простом текстовом файле или в тех же СМС, где невозможно выделение жирным, создание заголовков, выделение цитат и пр.&lt;/li&gt;
-&lt;li&gt;Для более удобного написания текстов для последующей конвертации в HTML или другие форматы.&lt;/li&gt;
+&lt;li&gt;To add markup to places where real markup is not possible. For example, in a simple text file or in the same SMS, where it is impossible to highlight bold, create titles, highlight quotes, etc.&lt;/li&gt;
+&lt;li&gt;For more convenient writing of texts for subsequent conversion to HTML or other formats.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;С синтаксисом данного языка вы можете ознакомиться по ссылке: &lt;a href=&#34;https://guides.hexlet.io/ru/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ознакомление с синтаксисом языка&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The syntax of this language can be found at the link: [&lt;strong&gt;Introduction to the syntax of the language&lt;/strong&gt;](&lt;a href=&#34;https://guides.hexlet.io/ru/markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://guides.hexlet.io/ru/markdown&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Гравити Фолз - самый прекрасный мультик!</title>
+      <title>Gravity Falls is the most beautiful cartoon!</title>
       <link>https://example.com/post/post-2/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/post-2/</guid>
-      <description>&lt;h2 id=&#34;мои-впечатления&#34;&gt;Мои впечатления.&lt;/h2&gt;
-&lt;p&gt;«Гравити Фолз» (англ. Gravity Falls) — американский анимационный телевизионный сериал, созданный Алексом Хиршем и компанией Disney Television Animation для телеканалов Disney Channel и Disney XD.&lt;/p&gt;
-&lt;p&gt;Мультсериал повествует о приключениях близнецов — мальчика Диппера и девочки Мэйбл, которые проводят летние каникулы у двоюродного дедушки Стэна в вымышленном американском городке под названием Гравити Фолз.&lt;/p&gt;
-&lt;p&gt;Премьера состоялась 15 июня 2012 года на канале Disney Channel. 14 июня 2014 года было объявлено, что премьера второго сезона состоится 1 и 4 августа 2014 года на каналах Disney Channel и Disney XD соответственно. 20 ноября 2015 года Алекс Хирш заявил, что сериал завершится на втором сезоне. Последний эпизод второго сезона под названием «Странногеддон 3: Вернём Гравити Фолз» был показан 15 февраля 2016 года. В своём твиттере создатель мультсериала Алекс Хирш анонсировал дополнение к сериалу в виде комикса.&lt;/p&gt;
-&lt;p&gt;Главные герои&lt;/p&gt;
+      <description>&lt;h2 id=&#34;my-impressions&#34;&gt;My impressions.&lt;/h2&gt;
+&lt;p&gt;Gravity Falls is an American animated television series created by Alex Hirsch and Disney Television Animation for the Disney Channel and Disney XD TV channels.&lt;/p&gt;
+&lt;p&gt;The animated series tells about the adventures of twins — a boy Dipper and a girl Mabel, who spend their summer holidays with great-uncle Stan in a fictional American town called Gravity Falls.&lt;/p&gt;
+&lt;p&gt;It premiered on June 15, 2012 on the Disney Channel. On June 14, 2014, it was announced that the second season would premiere on August 1 and 4, 2014 on Disney Channel and Disney XD, respectively. On November 20, 2015, Alex Hirsch announced that the series would end on the second season. The last episode of the second season, titled &amp;ldquo;Strangeddon 3: Bring Back Gravity Falls&amp;rdquo;, was broadcast on February 15, 2016. On Twitter, the creator of the animated series Alex Hirsch announced an addition to the series in the form of a comic book.&lt;/p&gt;
+&lt;p&gt;The main characters&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Диппер Пайнс — 12-летний мальчик, брат-близнец Мэйбл, приехавший на летние каникулы в Гравити Фолз. Всегда носит кепку. Приехал на лето в Гравити фолз и нашёл там загадочный дневник. Мечтает найти автора дневников. Влюблён в Венди.&lt;/li&gt;
-&lt;li&gt;Мейбл Пайнс  — 12-летняя девочка, сестра-близнец Диппера. Добрая и жизнерадостная. Любит своего поросёнка Пухлю. Носит различные свитера.&lt;/li&gt;
-&lt;li&gt;Стэнли «Дядя Стэн» Пайнс — двоюродный дедушка Диппера и Мэйбл, которого они зовут дядей. Владелец «Хижины Чудес».&lt;/li&gt;
-&lt;li&gt;Зус Рамирес — 22-летний мастер и постоянный сотрудник «Хижины Чудес»; хороший друг Диппера и Мэйбл. Любит вкусно поесть. Факт: в русском дубляже имя Суса было переименовано на Зус, указывая на богоподобность.&lt;/li&gt;
-&lt;li&gt;Ве́нди Кордрой — 15-летняя рыжая девушка, сотрудница «Хижины Чудес». Объект влюблённости Диппера.&lt;/li&gt;
-&lt;li&gt;Стэнфорд Пайнс — пропавший брат-близнец Стэнли Пайнса, двоюродный дедушка Диппера и Мэйбл. Учёный и автор дневников.&lt;/li&gt;
-&lt;li&gt;Билл Шифр  — древний могущественный демон из другой плоскости бытия, желающий проникнуть в мир людей. Главный антагонист сериала.&lt;/li&gt;
+&lt;li&gt;Dipper Pines is a 12—year-old boy, Mabel&amp;rsquo;s twin brother, who came to Gravity Falls for summer vacation. Always wears a cap. I came to Gravity Falls for the summer and found a mysterious diary there. He dreams of finding the author of the diaries. In love with Wendy.&lt;/li&gt;
+&lt;li&gt;Mabel Pines is a 12—year-old girl, Dipper&amp;rsquo;s twin sister. Kind and cheerful. He loves his piggy Plump. Wears various sweaters.&lt;/li&gt;
+&lt;li&gt;Stanley &amp;ldquo;Uncle Stan&amp;rdquo; Pines is Dipper and Mabel&amp;rsquo;s great—uncle, whom they call Uncle. The owner of the &amp;ldquo;Hut of Wonders&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Zus Ramirez is a 22—year-old master and permanent employee of the &amp;ldquo;Hut of Miracles&amp;rdquo;; a good friend of Dipper and Mabel. Likes to eat delicious food. Fact: in the Russian dubbing, the name of Sous was renamed to Sous, indicating godlike.&lt;/li&gt;
+&lt;li&gt;Wendy Cordroy is a 15—year-old red-haired girl, an employee of the &amp;ldquo;Hut of Miracles&amp;rdquo;. The object of Dipper&amp;rsquo;s infatuation.&lt;/li&gt;
+&lt;li&gt;Stanford Pines is the missing twin brother of Stanley Pines, the great-uncle of Dipper and Mabel. Scientist and author of diaries.&lt;/li&gt;
+&lt;li&gt;Bill Cipher is an ancient powerful demon from another plane of existence, who wants to penetrate the world of people. The main antagonist of the series.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Гравити Фолз - это квинтэссенция мистики, юмора, дружбы и приключений! Я могу пересматривать этот сериал множество раз, потому что каждый раз это снова интересно и весело. Семья тоже добавляет в сериал свою нотку, от чего становится еще теплее. Дядя Стэн - такой выпуклый образ, когда его вижу, сразу вспоминаю собственного батю. Возможно, это связано с отношением ко всему и стремлением заработать. Одни цели, так сказать. При этом сериал ненавязчиво транслирует семейные ценности, поддержку и любовь.&lt;/p&gt;
+&lt;p&gt;Gravity Falls is the quintessence of mysticism, humor, friendship and adventure! I can watch this series many times, because every time it&amp;rsquo;s interesting and fun again. The family also adds its own note to the series, which makes it even warmer. Uncle Stan is such a convex image, when I see him, I immediately remember my own father. Perhaps this is due to the attitude to everything and the desire to earn. One goal, so to speak. At the same time, the series unobtrusively broadcasts family values, support and love.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Управление версиями. Git.</title>
+      <title>Version control. Git.</title>
       <link>https://example.com/post/post-1/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/post-1/</guid>
-      <description>&lt;h2 id=&#34;информация&#34;&gt;Информация.&lt;/h2&gt;
-&lt;p&gt;Git - это распределенный инструмент контроля версий, который немного сложнее в использовании, чем SVN и другие инструменты контроля версий. Чтобы облегчить понимание, эта статья подробно описывает использование Git с помощью графики, чтобы быстро освоить Git. Основные команды показаны на рисунке.
-Из рисунка выше видно, что Git концептуально разделен на 3 большие области: рабочее пространство, локальный склад и удаленный склад. Существует также область временного хранения, также называемая индексной областью. Давайте посмотрим, что делает каждая область. Ключевым моментом, который отражает Git, является распределенное управление версиями в том, что у него есть локальное хранилище. Фактически обычная работа по управлению версиями выполняется в локальной библиотеке.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;information&#34;&gt;Information&lt;/h2&gt;
+&lt;p&gt;Git is a distributed version control tool that is a bit more difficult to use than SVN and other version control tools. To make it easier to understand, this article describes in detail the use of Git using graphics to quickly master Git. The main commands are shown in the figure.
+From the figure above, it can be seen that Git is conceptually divided into 3 large areas: workspace, local warehouse and remote warehouse. There is also a temporary storage area, also called an index area. Let&amp;rsquo;s see what each area does. The key point that Git reflects is distributed version control in that it has local storage. In fact, the usual version control work is done in the local library.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Рабочая область: На самом деле это наш рабочий каталог в операционной системе. Мы можем просматривать команды управления файлами операционной системы (например, через команду ls в Linux).&lt;/li&gt;
-&lt;li&gt;Локальный репозиторий: в рабочей области есть скрытый каталог .git. Этот каталог и его содержимое также являются частью рабочей области, но являются локальным репозиторием Git. Он используется для реализации контроля версий.&lt;/li&gt;
-&lt;li&gt;Удаленный склад: Удаленный склад - это склад, хранящийся на удаленном сервере, главным образом для обеспечения многопользовательской совместной работы.&lt;/li&gt;
-&lt;li&gt;Область временного хранения: область временного хранения обычно хранится в файле индекса (.git / index) в «каталоге .git», поэтому мы иногда называем область временного хранения в качестве индекса (индекса).&lt;/li&gt;
+&lt;li&gt;Workspace: This is actually our working directory in the operating system. We can view the operating system&amp;rsquo;s file management commands (for example, via the ls command in Linux).&lt;/li&gt;
+&lt;li&gt;Local repository: There is a hidden directory in the workspace.git. This directory and its contents are also part of the workspace, but are a local Git repository. It is used to implement version control.&lt;/li&gt;
+&lt;li&gt;Remote Warehouse: A remote warehouse is a warehouse stored on a remote server, mainly for multi-user collaboration.&lt;/li&gt;
+&lt;li&gt;Temporary Storage area: The temporary storage area is usually stored in an index file (.git / index) in the &amp;ldquo;directory .git&amp;rdquo;, so we sometimes refer to the temporary storage area as an index (index).&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
