@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Academic</title>
-    <link>https://example.com/ru/project/</link>
-      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kseniyasyachinova.github.io/ru/project/</link>
+      <atom:link href="https://kseniyasyachinova.github.io/ru/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://kseniyasyachinova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/ru/project/</link>
+      <link>https://kseniyasyachinova.github.io/ru/project/</link>
     </image>
     
     <item>
       <title>Грозит ли Земле перенаселение</title>
-      <link>https://example.com/ru/project/example/</link>
+      <link>https://kseniyasyachinova.github.io/ru/project/example/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/example/</guid>
+      <guid>https://kseniyasyachinova.github.io/ru/project/example/</guid>
       <description>&lt;p&gt;Актуальность темы: Экологическая проблема - это изменение природной среды в результате антропогенных воздействий или стихийных бедствий, ведущее к нарушению структуры и функционирования природы.&lt;/p&gt;
 &lt;p&gt;Экологические проблемы возникли как следствие нерационального отношения человека к природе, стремительного роста промышленных технологий, индустриализации и роста населения.&lt;/p&gt;
 &lt;p&gt;Выработка природных ресурсов настолько велика, что встал вопрос об их использовании в будущем. Загрязнение природной среды привело к прогрессирующей гибели представителей растительно-животного мира, загрязнению почв, подземных источников, истощению и деградации почвенного покрова и т.д.&lt;/p&gt;

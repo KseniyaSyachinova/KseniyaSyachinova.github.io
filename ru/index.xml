@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://example.com/ru/</link>
-      <atom:link href="https://example.com/ru/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kseniyasyachinova.github.io/ru/</link>
+      <atom:link href="https://kseniyasyachinova.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://kseniyasyachinova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/ru/</link>
+      <link>https://kseniyasyachinova.github.io/ru/</link>
     </image>
     
     <item>
       <title>Леди Баг?! ДА!!!</title>
-      <link>https://example.com/ru/post/post-7/</link>
+      <link>https://kseniyasyachinova.github.io/ru/post/post-7/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post-7/</guid>
+      <guid>https://kseniyasyachinova.github.io/ru/post/post-7/</guid>
       <description>&lt;h2 id=&#34;что-то-новое&#34;&gt;Что-то новое&lt;/h2&gt;
 &lt;p&gt;«Леди Баг и Супер-Кот» (фр. Miraculous, les aventures de Ladybug et Chat Noir; также известен как Miraculous Ladybug или Miraculous) — французский мультсериал производства Zagtoon и Method Animation. Мультсериал рассказывает про двух парижских подростков, Маринетт Дюпен-Чен и Адриана Агреста, которые превращаются в супергероев Леди Баг и Супер-Кота, чтобы защищать город от суперзлодеев, создаваемых Бражником (Мотыльком). Создателем мультсериала является Томас Астрюк.&lt;/p&gt;
 &lt;p&gt;До своего дебюта во Франции 19 октября 2015 года на TF1 сериал был впервые показан в Южной Корее 1 сентября 2015 года на EBS1&lt;/p&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>Топ 10 интересных фактов о человеке</title>
-      <link>https://example.com/ru/post/post-9/</link>
+      <link>https://kseniyasyachinova.github.io/ru/post/post-9/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post-9/</guid>
+      <guid>https://kseniyasyachinova.github.io/ru/post/post-9/</guid>
       <description>&lt;h2 id=&#34;10-интересных-фактов-о-человеке-и-его-организме&#34;&gt;10 интересных фактов о человеке и его организме&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -71,9 +71,9 @@
     
     <item>
       <title>Три товарища.</title>
-      <link>https://example.com/ru/post/post-10/</link>
+      <link>https://kseniyasyachinova.github.io/ru/post/post-10/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post-10/</guid>
+      <guid>https://kseniyasyachinova.github.io/ru/post/post-10/</guid>
       <description>&lt;h2 id=&#34;отличная-книга-для-прочтения&#34;&gt;Отличная книга для прочтения!&lt;/h2&gt;
 &lt;p&gt;«Три товарища» (нем. Drei Kameraden) — роман Эриха Марии Ремарка, работу над которым он начал в 1932 году. Роман был закончен и опубликован в датском издательстве Gyldendal под названием «Kammerater» в 1936 году В 1958 году был переведён на русский язык.&lt;/p&gt;
 &lt;h1 id=&#34;сюжет&#34;&gt;Сюжет&lt;/h1&gt;
@@ -95,9 +95,9 @@
     
     <item>
       <title>Языки научного программирования.</title>
-      <link>https://example.com/ru/post/post-8/</link>
+      <link>https://kseniyasyachinova.github.io/ru/post/post-8/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post-8/</guid>
+      <guid>https://kseniyasyachinova.github.io/ru/post/post-8/</guid>
       <description>&lt;h2 id=&#34;теория&#34;&gt;Теория.&lt;/h2&gt;
 &lt;p&gt;Язык программирования- формализованный язык, предназначенный для описания программ и алгоритмов решения задач на ЭВМ. Языки программирования являются искусственными. В них синтаксис и семантика строго определены. Поэтому они не допускают свободного толкования выражения, что характерно для естественного языка. Языки программирования разделяются на две основные категории языки высокого уровня и языки низкого уровня :&lt;/p&gt;
 &lt;ul&gt;
@@ -299,9 +299,9 @@
     
     <item>
       <title>Оформление отчёта</title>
-      <link>https://example.com/ru/post/post-6/</link>
+      <link>https://kseniyasyachinova.github.io/ru/post/post-6/</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post-6/</guid>
+      <guid>https://kseniyasyachinova.github.io/ru/post/post-6/</guid>
       <description>&lt;h2 id=&#34;информация&#34;&gt;Информация&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Область применения
@@ -441,9 +441,9 @@
     
     <item>
       <title>Самая крутая бургерная!</title>
-      <link>https://example.com/ru/post/post-5/</link>
+      <link>https://kseniyasyachinova.github.io/ru/post/post-5/</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post-5/</guid>
+      <guid>https://kseniyasyachinova.github.io/ru/post/post-5/</guid>
       <description>&lt;h2 id=&#34;мои-впечатления&#34;&gt;Мои впечатления.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -458,9 +458,9 @@
     
     <item>
       <title>День готовки!</title>
-      <link>https://example.com/ru/post/post-3/</link>
+      <link>https://kseniyasyachinova.github.io/ru/post/post-3/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post-3/</guid>
+      <guid>https://kseniyasyachinova.github.io/ru/post/post-3/</guid>
       <description>&lt;h2 id=&#34;рецепт&#34;&gt;Рецепт&lt;/h2&gt;
 &lt;p&gt;Каждый народ имеет свои богатые древние традиции. Они присутствуют повсюду: в одежде, быту, языке, песнях, еде и т. д.&lt;/p&gt;
 &lt;p&gt;Есть много рецептов приготовления блинов, неизменными ингредиентами остаются молоко, сахар, соль, яйца, масло. Мука для их приготовления может использоваться разная. Такой же разнообразной может быть и начинка. Здесь уже все зависит от изобретательности хозяйки. Пожалуй, никто бы не отказался полакомиться блинами с медом, яблоками, мягким сыром, сгущенным молоком, грибами, мясом и т. д.&lt;/p&gt;
@@ -498,9 +498,9 @@
     
     <item>
       <title>Язык разметки Markdown.</title>
-      <link>https://example.com/ru/post/post-4/</link>
+      <link>https://kseniyasyachinova.github.io/ru/post/post-4/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post-4/</guid>
+      <guid>https://kseniyasyachinova.github.io/ru/post/post-4/</guid>
       <description>&lt;h2 id=&#34;полезная-информация&#34;&gt;Полезная информация.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Совсем недавно я познакомилась с языком размтки Markdown. Хочу поделиться с вами информацией, которая может быть вам полезна.
@@ -517,9 +517,9 @@ Markdown — это простой язык разметки, используе
     
     <item>
       <title>Гравити Фолз - самый прекрасный мультик!</title>
-      <link>https://example.com/ru/post/post-2/</link>
+      <link>https://kseniyasyachinova.github.io/ru/post/post-2/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post-2/</guid>
+      <guid>https://kseniyasyachinova.github.io/ru/post/post-2/</guid>
       <description>&lt;h2 id=&#34;мои-впечатления&#34;&gt;Мои впечатления.&lt;/h2&gt;
 &lt;p&gt;«Гравити Фолз» (англ. Gravity Falls) — американский анимационный телевизионный сериал, созданный Алексом Хиршем и компанией Disney Television Animation для телеканалов Disney Channel и Disney XD.&lt;/p&gt;
 &lt;p&gt;Мультсериал повествует о приключениях близнецов — мальчика Диппера и девочки Мэйбл, которые проводят летние каникулы у двоюродного дедушки Стэна в вымышленном американском городке под названием Гравити Фолз.&lt;/p&gt;
@@ -540,9 +540,9 @@ Markdown — это простой язык разметки, используе
     
     <item>
       <title>Управление версиями. Git.</title>
-      <link>https://example.com/ru/post/post-1/</link>
+      <link>https://kseniyasyachinova.github.io/ru/post/post-1/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post-1/</guid>
+      <guid>https://kseniyasyachinova.github.io/ru/post/post-1/</guid>
       <description>&lt;h2 id=&#34;информация&#34;&gt;Информация.&lt;/h2&gt;
 &lt;p&gt;Git - это распределенный инструмент контроля версий, который немного сложнее в использовании, чем SVN и другие инструменты контроля версий. Чтобы облегчить понимание, эта статья подробно описывает использование Git с помощью графики, чтобы быстро освоить Git. Основные команды показаны на рисунке.
 Из рисунка выше видно, что Git концептуально разделен на 3 большие области: рабочее пространство, локальный склад и удаленный склад. Существует также область временного хранения, также называемая индексной областью. Давайте посмотрим, что делает каждая область. Ключевым моментом, который отражает Git, является распределенное управление версиями в том, что у него есть локальное хранилище. Фактически обычная работа по управлению версиями выполняется в локальной библиотеке.&lt;/p&gt;
@@ -557,9 +557,9 @@ Markdown — это простой язык разметки, используе
     
     <item>
       <title>Грозит ли Земле перенаселение</title>
-      <link>https://example.com/ru/project/example/</link>
+      <link>https://kseniyasyachinova.github.io/ru/project/example/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/example/</guid>
+      <guid>https://kseniyasyachinova.github.io/ru/project/example/</guid>
       <description>&lt;p&gt;Актуальность темы: Экологическая проблема - это изменение природной среды в результате антропогенных воздействий или стихийных бедствий, ведущее к нарушению структуры и функционирования природы.&lt;/p&gt;
 &lt;p&gt;Экологические проблемы возникли как следствие нерационального отношения человека к природе, стремительного роста промышленных технологий, индустриализации и роста населения.&lt;/p&gt;
 &lt;p&gt;Выработка природных ресурсов настолько велика, что встал вопрос об их использовании в будущем. Загрязнение природной среды привело к прогрессирующей гибели представителей растительно-животного мира, загрязнению почв, подземных источников, истощению и деградации почвенного покрова и т.д.&lt;/p&gt;
@@ -598,9 +598,9 @@ Markdown — это простой язык разметки, используе
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/ru/publication/preprint/</link>
+      <link>https://kseniyasyachinova.github.io/ru/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/preprint/</guid>
+      <guid>https://kseniyasyachinova.github.io/ru/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -612,9 +612,9 @@ Markdown — это простой язык разметки, используе
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/ru/slides/example/</link>
+      <link>https://kseniyasyachinova.github.io/ru/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/slides/example/</guid>
+      <guid>https://kseniyasyachinova.github.io/ru/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -737,9 +737,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/ru/publication/journal-article/</link>
+      <link>https://kseniyasyachinova.github.io/ru/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/journal-article/</guid>
+      <guid>https://kseniyasyachinova.github.io/ru/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -756,9 +756,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/ru/admin/config.yml</link>
+      <link>https://kseniyasyachinova.github.io/ru/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/admin/config.yml</guid>
+      <guid>https://kseniyasyachinova.github.io/ru/admin/config.yml</guid>
       <description></description>
     </item>
     

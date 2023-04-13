@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning | Academic</title>
-    <link>https://example.com/tag/deep-learning/</link>
-      <atom:link href="https://example.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kseniyasyachinova.github.io/tag/deep-learning/</link>
+      <atom:link href="https://kseniyasyachinova.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://kseniyasyachinova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
-      <link>https://example.com/tag/deep-learning/</link>
+      <link>https://kseniyasyachinova.github.io/tag/deep-learning/</link>
     </image>
     
     <item>
       <title>Is overpopulation threatening the Earth?</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://kseniyasyachinova.github.io/project/example/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://kseniyasyachinova.github.io/project/example/</guid>
       <description>&lt;p&gt;Relevance of the topic: An environmental problem is a change in the natural environment as a result of anthropogenic impacts or natural disasters, leading to disruption of the structure and functioning of nature.&lt;/p&gt;
 &lt;p&gt;Environmental problems have arisen as a consequence of irrational human attitude to nature, the rapid growth of industrial technologies, industrialization and population growth.&lt;/p&gt;
 &lt;p&gt;The development of natural resources is so great that the question arose about their use in the future. Pollution of the natural environment has led to the progressive death of representatives of the plant and animal world, pollution of soils, underground sources, depletion and degradation of soil cover, etc.&lt;/p&gt;
